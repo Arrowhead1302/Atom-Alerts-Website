@@ -1,0 +1,42 @@
+﻿PUTTING THE WEBSITE ONLINE (about 10 minutes, one time)
+
+Everything in this folder is finished. Your links are already in. Don't change any files.
+
+PART 1: Put the folder on GitHub (in GitHub Desktop)
+1. Open GitHub Desktop.
+2. Click File (top left), then "Add local repository..."
+3. Click "Choose...", go to Dropbox > Atom Alerts > Website, and click "Select Folder".
+4. It will say this folder isn't a Git repository yet. Click the blue link "create a repository" in that message.
+5. In the window that opens, leave everything as is and click "Create repository".
+6. Click the blue "Publish repository" button.
+7. IMPORTANT: UNTICK "Keep this code private". (The website must be public to be free. Nothing private is in it.)
+8. Click "Publish repository".
+
+PART 2: Turn the website on (on github.com)
+1. In GitHub Desktop, click Repository (top menu), then "View on GitHub". Your browser opens.
+2. Click "Settings" (the gear tab near the top right of the page).
+3. In the left menu, click "Pages".
+4. Under "Branch", change "None" to "main", leave the folder as "/ (root)", and click "Save".
+5. Further down, in "Custom domain", type:  atom-alerts.com   and click "Save".
+   (It will show a red/yellow warning until Part 3 is done. That's normal.)
+
+PART 3: Point atom-alerts.com at it (where you bought the domain)
+Log in where you bought atom-alerts.com and open its DNS settings (sometimes called "DNS records" or "Manage DNS"). If anything looks confusing, send Claude a screenshot of that page.
+Add these 5 records:
+
+   Type    Name / Host    Value / Points to
+   A       @              185.199.108.153
+   A       @              185.199.109.153
+   A       @              185.199.110.153
+   A       @              185.199.111.153
+   CNAME   www            arrowhead1302.github.io
+
+- If there are old "A" records for @ (often a "parked" page), delete those.
+- Do NOT touch any "MX" records. Those make your cj@atom-alerts.com email work.
+
+PART 4: Finish
+Wait 15 minutes to a few hours. Back in GitHub > Settings > Pages, when it shows a green check, tick "Enforce HTTPS".
+Then visit https://atom-alerts.com
+
+CHANGING THE SITE LATER
+Ask Claude for the change. The new files go into this folder, then in GitHub Desktop type a summary and click "Commit to main", then "Push origin".
