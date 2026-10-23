@@ -1,8 +1,14 @@
 {
- "updated": 1792795681,
+ "updated": 1792797485,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DTY5228W",
+   "name": "Charizard ex Special Collection",
+   "group": "Pokemon",
+   "at": 1792785131
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
