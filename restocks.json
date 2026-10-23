@@ -1,8 +1,20 @@
 {
- "updated": 1792797485,
+ "updated": 1792799288,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0FH7N6XQD",
+   "name": "NeeDoh Groovy Glob Green",
+   "group": "needoh",
+   "at": 1792788198
+  },
+  {
+   "asin": "B0DV4BCCHV",
+   "name": "NeeDoh Mello Mallo",
+   "group": "needoh",
+   "at": 1792787371
+  },
   {
    "asin": "B0DTY5228W",
    "name": "Charizard ex Special Collection",
