@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recent Amazon Restocks · NeeDoh and Pokémon TCG · Atom Alerts</title>
+<meta name="description" content="NeeDoh and Pokémon TCG restocks at Amazon that Atom Alerts members were pinged about, plus a short guide to buying restocks at retail price instead of from resellers.">
+<meta property="og:title" content="Recent Amazon Restocks · Atom Alerts">
+<meta property="og:description" content="What restocked at Amazon lately, and how to catch the next one at retail price.">
+<meta property="og:image" content="https://atom-alerts.com/share.png">
+<meta name="theme-color" content="#131A36">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="canonical" href="https://atom-alerts.com/restocks">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Unbounded:wght@600;700;800&display=swap" rel="stylesheet">
+<script>
+/* =====================================================================
+   Atom fills in restocks.json by itself (Settings > Alerts > Public restocks page).
+   JOIN is the free-trial link; TAG is only a fallback if the file has no Associates ID.
+   ===================================================================== */
+const JOIN = "https://whop.com/atom-alerts/atom-alerts-premium-pokemon-tcg-needoh-restock-alerts/";
+const TAG = "";
+</script>
+<style>
+:root{--bg:#131A36;--card:#19224A;--line:#26305C;--blue:#6F8FFF;--cyan:#2FD4E6;--gold:#FFC93C;--text:#EEF1FA;--sub:#C9D0E6;--muted:#8A94BD}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:Outfit,system-ui,sans-serif;font-size:17px;line-height:1.6}
+a{color:var(--cyan)}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+nav{border-bottom:1px solid #ffffff0d}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:66px;gap:14px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text);font-family:Unbounded,sans-serif;font-weight:700;letter-spacing:.06em;font-size:16px}
+.brand img{width:34px;height:34px}
+.navlinks{display:flex;gap:18px;align-items:center;font-size:15px}
+.navlinks a{color:var(--sub);text-decoration:none}
+h1{font-family:Unbounded,system-ui,sans-serif;font-weight:800;font-size:clamp(28px,5vw,42px);line-height:1.1;margin:44px 0 12px}
+h2{font-family:Unbounded,system-ui,sans-serif;font-weight:700;font-size:20px;margin:40px 0 12px;color:var(--text)}
+h3{font-size:17px;color:var(--gold);margin:22px 0 6px;font-weight:700}
+p,li{color:var(--sub)}
+p+p{margin-top:10px}
+ul{padding-left:22px}
+li+li{margin-top:6px}
+b{color:var(--text)}
+.lede{font-size:19px;max-width:700px}
+.disc{font-size:13px;color:var(--muted);margin:14px 0 0}
+.note{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 16px;margin:18px 0;font-size:15px;color:var(--sub)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 6px}
+.chip{background:transparent;border:1px solid var(--line);color:var(--sub);font:inherit;font-size:14px;padding:6px 14px;border-radius:999px;cursor:pointer}
+.chip.on{background:var(--gold);border-color:var(--gold);color:var(--bg);font-weight:600}
+.list{display:grid;gap:10px;margin-top:14px}
+.item{display:flex;align-items:center;justify-content:space-between;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 18px}
+.item .name{color:var(--text);font-weight:600;line-height:1.35}
+.item .meta{color:var(--muted);font-size:14px;margin-top:3px}
+.tagpill{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 9px;margin-right:8px;font-size:13px;color:var(--sub)}
+.buy{flex:none;background:#20295A;border:1px solid var(--line);color:var(--text);text-decoration:none;font-size:15px;font-weight:600;padding:9px 16px;border-radius:999px;white-space:nowrap}
+.buy:hover{border-color:var(--cyan)}
+.empty{color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:16px;padding:22px;text-align:center}
+.more{display:block;margin:14px auto 0;background:transparent;border:1px solid var(--line);color:var(--sub);font:inherit;padding:8px 18px;border-radius:999px;cursor:pointer}
+.cta{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:26px;margin:44px 0 0;text-align:center}
+.cta p{margin:6px auto 18px;max-width:560px}
+.btn{display:inline-flex;align-items:center;gap:10px;background:var(--gold);color:var(--bg);font-family:Unbounded,sans-serif;font-weight:700;font-size:16px;padding:14px 24px;border-radius:999px;text-decoration:none}
+footer{margin:56px 0 40px;color:var(--muted);font-size:14px}
+footer p{color:var(--muted)}
+@media (max-width:560px){.item{flex-direction:column;align-items:flex-start}.navlinks a.hide{display:none}}
+</style>
+</head>
+<body>
+<nav><div class="wrap"><a class="brand" href="index.html"><img src="favicon.svg" alt="">ATOM ALERTS</a>
+<div class="navlinks"><a class="hide" href="index.html#how">How it works</a><a class="hide" href="index.html#pricing">Pricing</a><a href="index.html">Home</a></div></div></nav>
+<main class="wrap">
+<h1>Recent Amazon restocks</h1>
+<p class="lede">NeeDoh and Pokémon TCG items that came back in stock at Amazon, sold by Amazon itself, and that Atom Alerts members were pinged about. This list runs a few hours behind on purpose: members get the alert the moment it happens.</p>
+<div class="chips" id="chips"></div>
+<p class="disc">As an Amazon Associate I earn from qualifying purchases.</p>
+<div class="list" id="list"><div class="empty">Loading recent restocks…</div></div>
+<button class="more" id="more" hidden>Show more</button>
+<p id="when" style="margin-top:12px;font-size:14px;color:var(--muted)"></p>
+
+<h2>Why these sell out so fast</h2>
+<p>Popular NeeDohs and new Pokémon TCG sets don't sit on Amazon for long. When Amazon itself restocks an item at its normal price, it's often gone in minutes: resale bots and people watching for it buy it up, and the listing falls back to third-party sellers asking two or three times the price.</p>
+<p>That's the problem Atom Alerts is built for. We watch these items around the clock and ping you on Discord the second Amazon (or Target, Walmart, Pokémon Center and other stores) has them at retail price, so parents and collectors get a fair shot instead of paying a reseller.</p>
+
+<h2>How to buy a restock at retail price</h2>
+<h3>1. Check who's selling it</h3>
+<p>On the Amazon page, look at the buy box for <b>"Ships from Amazon, Sold by Amazon"</b>. If it names a different seller, it's usually a reseller's price, even when the page looks the same. The restocks on this list were all sold by Amazon when they were posted.</p>
+<h3>2. Know the real price</h3>
+<p>Before you buy, compare the price with what Target, Walmart or the brand's own site charge for the same item. If Amazon's price is well above that, it's probably a third-party seller, and it's worth waiting for the next restock.</p>
+<h3>3. Be ready before it drops</h3>
+<p>Stay signed in to Amazon on your phone with a saved address and payment method. When a restock hits, add it to your cart and check out right away: an item in your cart isn't held for you, and the stock usually goes in a few minutes.</p>
+<h3>4. Don't panic-buy</h3>
+<p>Popular items restock again and again; you'll often see the same name on this list more than once. Missing one isn't a reason to pay double.</p>
+
+<div class="cta">
+<h2 style="margin-top:0">Get these alerts the second they happen</h2>
+<p>Atom Alerts members are pinged the moment an item restocks at retail price at Amazon, Target, Walmart, Pokémon Center and more. Try it free for 5 days.</p>
+<a class="btn" id="join" href="#">Try 5 days free →</a>
+</div>
+
+<footer>
+<p>As an Amazon Associate I earn from qualifying purchases. Restocks are listed after a delay and may already be sold out; Amazon's page shows the current price and availability. Atom Alerts is not affiliated with, endorsed by or sponsored by Amazon, Schylling or The Pokémon Company. Product names are trademarks of their respective owners.</p>
+<p style="margin-top:10px">© <span id="yr"></span> Atom Alerts · <a href="mailto:cj@atom-alerts.com">cj@atom-alerts.com</a></p>
+</footer>
+</main>
+<script>
+(function(){
+  document.getElementById('yr').textContent = new Date().getFullYear();
+  var join = document.getElementById('join'); join.href = JOIN;
+  var list = document.getElementById('list'), chips = document.getElementById('chips'), more = document.getElementById('more');
+  var all = [], tag = TAG, pick = 'All', shown = 20;
+  function esc(s){return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function ago(t){var m = Math.round((Date.now()/1000 - t)/60); if (m < 60) return m + ' min ago'; var h = Math.round(m/60); if (h < 48) return h + (h === 1 ? ' hour ago' : ' hours ago'); return Math.round(h/24) + ' days ago';}
+  function when(t){return new Date(t*1000).toLocaleString(undefined, {month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});}
+  function link(asin){return 'https://www.amazon.com/dp/' + encodeURIComponent(asin) + (tag ? '?tag=' + encodeURIComponent(tag) : '');}
+  function draw(){
+    var items = all.filter(function(e){return pick === 'All' || e.group === pick;});
+    if (!items.length){ list.innerHTML = '<div class="empty">No restocks to show yet. Check back soon.</div>'; more.hidden = true; return; }
+    list.innerHTML = items.slice(0, shown).map(function(e){
+      return '<div class="item"><div><div class="name">' + esc(e.name) + '</div><div class="meta">' + (e.group ? '<span class="tagpill">' + esc(e.group) + '</span>' : '') +
+        'Restocked ' + esc(when(e.at)) + ' (' + esc(ago(e.at)) + ')</div></div>' +
+        '<a class="buy" href="' + link(e.asin) + '" target="_blank" rel="nofollow sponsored noopener">View on Amazon</a></div>';
+    }).join('');
+    more.hidden = items.length <= shown;
+  }
+  function drawChips(){
+    var groups = ['All'].concat(all.map(function(e){return e.group;}).filter(function(g, i, a){return g && a.indexOf(g) === i;}));
+    chips.innerHTML = groups.length > 2 ? groups.map(function(g){return '<button class="chip' + (g === pick ? ' on' : '') + '" data-g="' + esc(g) + '">' + esc(g) + '</button>';}).join('') : '';
+    Array.prototype.forEach.call(chips.querySelectorAll('.chip'), function(b){ b.onclick = function(){ pick = b.getAttribute('data-g'); shown = 20; drawChips(); draw(); }; });
+  }
+  more.onclick = function(){ shown += 20; draw(); };
+  fetch('restocks.json?v=' + Math.floor(Date.now()/300000)).then(function(r){ return r.ok ? r.json() : {items: []}; }).then(function(d){
+    all = (d.items || []).filter(function(e){ return e && e.asin; });
+    if (d.tag) tag = d.tag;
+    if (d.updated) document.getElementById('when').textContent = 'Updated ' + when(d.updated) + '. Restocks show up here about ' + (d.delay_hours || 3) + ' hours after members are alerted.';
+    drawChips(); draw();
+  }).catch(function(){ all = []; draw(); });
+})();
+</script>
+</body>
+</html>
