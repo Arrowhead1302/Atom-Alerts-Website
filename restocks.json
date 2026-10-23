@@ -1,8 +1,14 @@
 {
- "updated": 1792782625,
+ "updated": 1792785027,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1792774112
+  },
   {
    "asin": "B07XLDRB2S",
    "name": "NeeDoh Color Change",
