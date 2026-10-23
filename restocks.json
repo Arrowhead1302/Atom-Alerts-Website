@@ -1,8 +1,26 @@
 {
- "updated": 1792790675,
+ "updated": 1792792559,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1792781724
+  },
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1792781497
+  },
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1792780142
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow",
