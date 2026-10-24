@@ -1,8 +1,14 @@
 {
- "updated": 1792816228,
+ "updated": 1792818032,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792805584
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
