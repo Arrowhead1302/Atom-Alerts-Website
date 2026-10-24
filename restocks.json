@@ -1,8 +1,20 @@
 {
- "updated": 1792818032,
+ "updated": 1792819834,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1792807909
+  },
+  {
+   "asin": "B0H77VZBX4",
+   "name": "30th Celebration Tech Sticker Collection",
+   "group": "Pokemon",
+   "at": 1792807358
+  },
   {
    "asin": "B0GYTRYV7P",
    "name": "Pitch Black Booster Bundle",
