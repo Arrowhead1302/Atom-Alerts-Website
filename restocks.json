@@ -1,8 +1,14 @@
 {
- "updated": 1792841824,
+ "updated": 1792844212,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow",
+   "group": "needoh",
+   "at": 1792833375
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1792734407
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1792733971
   }
  ]
 }
