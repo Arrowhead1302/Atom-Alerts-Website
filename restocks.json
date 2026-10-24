@@ -1,8 +1,14 @@
 {
- "updated": 1792819834,
+ "updated": 1792822117,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1792811235
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
