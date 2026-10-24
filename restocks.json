@@ -1,8 +1,14 @@
 {
- "updated": 1792865253,
+ "updated": 1792867055,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792855397
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
    "at": 1792749887
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1792748230
   }
  ]
 }
