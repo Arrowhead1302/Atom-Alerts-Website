@@ -1,8 +1,14 @@
 {
- "updated": 1792839060,
+ "updated": 1792841824,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear",
+   "group": "needoh",
+   "at": 1792830927
+  },
   {
    "asin": "B0GYTRYV7P",
    "name": "Pitch Black Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Fuzzball",
    "group": "needoh",
    "at": 1792733971
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow",
-   "group": "needoh",
-   "at": 1792733953
   }
  ]
 }
