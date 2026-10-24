@@ -1,8 +1,14 @@
 {
- "updated": 1792876428,
+ "updated": 1792878229,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1792865692
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1792758305
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1792756741
   }
  ]
 }
