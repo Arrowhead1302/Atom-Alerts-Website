@@ -1,8 +1,14 @@
 {
- "updated": 1792867055,
+ "updated": 1792868857,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow",
+   "group": "needoh",
+   "at": 1792857330
+  },
   {
    "asin": "B0GYTRYV7P",
    "name": "Pitch Black Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1792755469
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1792749887
   }
  ]
 }
