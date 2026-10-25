@@ -1,8 +1,14 @@
 {
- "updated": 1792911463,
+ "updated": 1792913266,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792900758
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1792788981
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1792788977
   }
  ]
 }
