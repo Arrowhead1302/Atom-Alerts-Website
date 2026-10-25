@@ -1,8 +1,14 @@
 {
- "updated": 1792896259,
+ "updated": 1792898064,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1792885797
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gumdrop - Pack of 1",
    "group": "needoh",
    "at": 1792776514
-  },
-  {
-   "asin": "B0GWSB7V4T",
-   "name": "The Hobbit Bundle",
-   "group": "Magic: the Gathering",
-   "at": 1792776217
   }
  ]
 }
