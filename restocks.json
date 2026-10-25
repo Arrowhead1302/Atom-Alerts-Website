@@ -1,8 +1,20 @@
 {
- "updated": 1792950393,
+ "updated": 1792952196,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792940719
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1792940599
+  },
   {
    "asin": "B0D6CVLBJZ",
    "name": "NeeDoh Teenie",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1792838251
-  },
-  {
-   "asin": "B0H7FDBNSB",
-   "name": "30th Celebration Knockout Collection",
-   "group": "Pokemon",
-   "at": 1792834310
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow",
-   "group": "needoh",
-   "at": 1792833375
   }
  ]
 }
