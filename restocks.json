@@ -1,8 +1,14 @@
 {
- "updated": 1792905577,
+ "updated": 1792907379,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1792896052
+  },
   {
    "asin": "B0DVZRP9MR",
    "name": "NeeDoh Good Vibes Only",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1792787371
-  },
-  {
-   "asin": "B0DTY5228W",
-   "name": "Charizard ex Special Collection",
-   "group": "Pokemon",
-   "at": 1792785131
   }
  ]
 }
