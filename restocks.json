@@ -1,8 +1,20 @@
 {
- "updated": 1792946786,
+ "updated": 1792948590,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G78HDPPR",
+   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
+   "group": "Pokemon",
+   "at": 1792936416
+  },
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1792936123
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Gummy Bear",
    "group": "needoh",
    "at": 1792830927
-  },
-  {
-   "asin": "B0GYTRYV7P",
-   "name": "Pitch Black Booster Bundle",
-   "group": "Pokemon",
-   "at": 1792828146
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1792823773
   }
  ]
 }
