@@ -1,8 +1,14 @@
 {
- "updated": 1792889649,
+ "updated": 1792891451,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1792879387
+  },
   {
    "asin": "B0GYTRYV7P",
    "name": "Pitch Black Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Color Change",
    "group": "needoh",
    "at": 1792771825
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1792764900
   }
  ]
 }
