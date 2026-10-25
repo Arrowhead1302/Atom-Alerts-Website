@@ -1,8 +1,26 @@
 {
- "updated": 1792962407,
+ "updated": 1792964211,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0BQZFH9YM",
+   "name": "NeeDoh Rainboh Teenie",
+   "group": "needoh",
+   "at": 1792953199
+  },
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1792952689
+  },
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow",
+   "group": "needoh",
+   "at": 1792952074
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1792846005
-  },
-  {
-   "asin": "B0GWSB7V4T",
-   "name": "The Hobbit Bundle",
-   "group": "Magic: the Gathering",
-   "at": 1792845676
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1792845480
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1792842278
   }
  ]
 }
