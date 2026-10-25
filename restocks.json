@@ -1,8 +1,14 @@
 {
- "updated": 1792913266,
+ "updated": 1792915788,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow",
+   "group": "needoh",
+   "at": 1792904970
+  },
   {
    "asin": "B0GYTRYV7P",
    "name": "Pitch Black Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1792795716
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1792788981
   }
  ]
 }
