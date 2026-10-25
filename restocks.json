@@ -1,8 +1,26 @@
 {
- "updated": 1792903716,
+ "updated": 1792905577,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1792894489
+  },
+  {
+   "asin": "B0G78HDPPR",
+   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
+   "group": "Pokemon",
+   "at": 1792894482
+  },
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1792894419
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -344,24 +362,6 @@
    "name": "Charizard ex Special Collection",
    "group": "Pokemon",
    "at": 1792785131
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1792784802
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1792781724
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1792781497
   }
  ]
 }
