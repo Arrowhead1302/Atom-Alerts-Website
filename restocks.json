@@ -1,8 +1,20 @@
 {
- "updated": 1792964211,
+ "updated": 1792967095,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1792956207
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1792956201
+  },
   {
    "asin": "B0BQZFH9YM",
    "name": "NeeDoh Rainboh Teenie",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1792849092
-  },
-  {
-   "asin": "B0G78HDPPR",
-   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
-   "group": "Pokemon",
-   "at": 1792848514
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1792846005
   }
  ]
 }
