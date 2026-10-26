@@ -1,8 +1,20 @@
 {
- "updated": 1793049436,
+ "updated": 1793051238,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GKTS46",
+   "name": "NeeDoh Color Change Cube",
+   "group": "needoh",
+   "at": 1793039940
+  },
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793039325
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -350,18 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
    "group": "Pokemon",
    "at": 1792894482
-  },
-  {
-   "asin": "B07XLDRB2S",
-   "name": "NeeDoh Color Change",
-   "group": "needoh",
-   "at": 1792894419
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1792892814
   }
  ]
 }
