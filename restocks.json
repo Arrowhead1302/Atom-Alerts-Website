@@ -1,8 +1,14 @@
 {
- "updated": 1793039591,
+ "updated": 1793046674,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793035846
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1792889409
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1792889408
   }
  ]
 }
