@@ -1,8 +1,14 @@
 {
- "updated": 1793037790,
+ "updated": 1793039591,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FDBNSB",
+   "name": "30th Celebration Knockout Collection",
+   "group": "Pokemon",
+   "at": 1793028626
+  },
   {
    "asin": "B0F2BCG1Y5",
    "name": "Destined Rivals Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1792889408
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1792887463
   }
  ]
 }
