@@ -1,8 +1,14 @@
 {
- "updated": 1793005450,
+ "updated": 1793007252,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792996203
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Fuzzball",
    "group": "needoh",
    "at": 1792873323
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1792871179
   }
  ]
 }
