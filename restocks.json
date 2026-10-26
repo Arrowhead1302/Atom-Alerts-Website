@@ -1,8 +1,14 @@
 {
- "updated": 1792977311,
+ "updated": 1792979115,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1792967301
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Knockout Collection",
    "group": "Pokemon",
    "at": 1792861946
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow",
-   "group": "needoh",
-   "at": 1792857330
   }
  ]
 }
