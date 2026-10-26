@@ -1,8 +1,14 @@
 {
- "updated": 1792968899,
+ "updated": 1792977311,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1792966427
+  },
   {
    "asin": "B0H77VZBX4",
    "name": "30th Celebration Tech Sticker Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow",
    "group": "needoh",
    "at": 1792857330
-  },
-  {
-   "asin": "B0GYTRYV7P",
-   "name": "Pitch Black Booster Bundle",
-   "group": "Pokemon",
-   "at": 1792855397
   }
  ]
 }
