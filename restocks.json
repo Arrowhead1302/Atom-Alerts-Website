@@ -1,8 +1,14 @@
 {
- "updated": 1793015904,
+ "updated": 1793019160,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793008325
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear",
@@ -356,12 +362,6 @@
    "name": "Pitch Black Booster Bundle",
    "group": "Pokemon",
    "at": 1792878835
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1792874472
   }
  ]
 }
