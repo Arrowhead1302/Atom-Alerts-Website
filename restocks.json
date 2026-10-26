@@ -1,8 +1,14 @@
 {
- "updated": 1793051238,
+ "updated": 1793053087,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow",
+   "group": "needoh",
+   "at": 1793042276
+  },
   {
    "asin": "B0G3GKTS46",
    "name": "NeeDoh Color Change Cube",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Good Vibes Only",
    "group": "needoh",
    "at": 1792894489
-  },
-  {
-   "asin": "B0G78HDPPR",
-   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
-   "group": "Pokemon",
-   "at": 1792894482
   }
  ]
 }
