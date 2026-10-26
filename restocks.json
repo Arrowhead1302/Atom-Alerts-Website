@@ -1,8 +1,14 @@
 {
- "updated": 1792979115,
+ "updated": 1792983202,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1792972394
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1792863236
-  },
-  {
-   "asin": "B0H7FDBNSB",
-   "name": "30th Celebration Knockout Collection",
-   "group": "Pokemon",
-   "at": 1792861946
   }
  ]
 }
