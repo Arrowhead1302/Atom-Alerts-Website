@@ -1,8 +1,14 @@
 {
- "updated": 1793053087,
+ "updated": 1793054889,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793042637
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1792896052
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1792894489
   }
  ]
 }
