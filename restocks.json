@@ -1,8 +1,14 @@
 {
- "updated": 1792993081,
+ "updated": 1793001606,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1792990697
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1792870710
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1792870137
   }
  ]
 }
