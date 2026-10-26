@@ -1,8 +1,14 @@
 {
- "updated": 1793027176,
+ "updated": 1793029098,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1793018278
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1792885797
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1792885432
   }
  ]
 }
