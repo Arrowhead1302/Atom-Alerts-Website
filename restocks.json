@@ -1,8 +1,14 @@
 {
- "updated": 1793076283,
+ "updated": 1793078854,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793067950
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow",
    "group": "needoh",
    "at": 1792927254
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1792924539
   }
  ]
 }
