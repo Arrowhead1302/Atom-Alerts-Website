@@ -1,8 +1,14 @@
 {
- "updated": 1793109736,
+ "updated": 1793111538,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0C6XBP4CW",
+   "name": "NeeDoh Gumdrop - Pack of 1",
+   "group": "needoh",
+   "at": 1793099943
+  },
   {
    "asin": "B0H77VZBX4",
    "name": "30th Celebration Tech Sticker Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Color Change",
    "group": "needoh",
    "at": 1792956207
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1792956201
   }
  ]
 }
