@@ -1,8 +1,14 @@
 {
- "updated": 1793083178,
+ "updated": 1793084979,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793074154
+  },
   {
    "asin": "B0H77VZBX4",
    "name": "30th Celebration Tech Sticker Collection",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
    "at": 1792936123
-  },
-  {
-   "asin": "B0H7FDBNSB",
-   "name": "30th Celebration Knockout Collection",
-   "group": "Pokemon",
-   "at": 1792935894
   }
  ]
 }
