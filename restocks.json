@@ -1,8 +1,14 @@
 {
- "updated": 1793060295,
+ "updated": 1793062337,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
+   "group": "needoh",
+   "at": 1793051443
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1792914421
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1792914176
   }
  ]
 }
