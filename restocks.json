@@ -1,8 +1,14 @@
 {
- "updated": 1793080656,
+ "updated": 1793083178,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H77VZBX4",
+   "name": "30th Celebration Tech Sticker Collection",
+   "group": "Pokemon",
+   "at": 1793072327
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Knockout Collection",
    "group": "Pokemon",
    "at": 1792935894
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1792930870
   }
  ]
 }
