@@ -1,8 +1,14 @@
 {
- "updated": 1793134049,
+ "updated": 1793136331,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793125480
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear",
    "group": "needoh",
    "at": 1792982175
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow",
-   "group": "needoh",
-   "at": 1792979777
   }
  ]
 }
