@@ -1,8 +1,14 @@
 {
- "updated": 1793139292,
+ "updated": 1793141093,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
+   "group": "needoh",
+   "at": 1793129411
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1792994623
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1792990697
   }
  ]
 }
