@@ -1,8 +1,14 @@
 {
- "updated": 1793123241,
+ "updated": 1793125043,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1793113702
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -356,12 +362,6 @@
    "name": "Pitch Black Booster Bundle",
    "group": "Pokemon",
    "at": 1792972394
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1792967301
   }
  ]
 }
