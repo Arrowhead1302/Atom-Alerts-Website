@@ -1,8 +1,14 @@
 {
- "updated": 1793086781,
+ "updated": 1793088583,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793077113
+  },
   {
    "asin": "B0GPY1XRKP",
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1792940599
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie",
-   "group": "needoh",
-   "at": 1792938891
   }
  ]
 }
