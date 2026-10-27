@@ -1,8 +1,14 @@
 {
- "updated": 1793113341,
+ "updated": 1793116366,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793105468
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1792966427
-  },
-  {
-   "asin": "B0H77VZBX4",
-   "name": "30th Celebration Tech Sticker Collection",
-   "group": "Pokemon",
-   "at": 1792958027
   }
  ]
 }
