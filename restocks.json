@@ -1,8 +1,14 @@
 {
- "updated": 1793142895,
+ "updated": 1793144937,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793134042
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1792999017
-  },
-  {
-   "asin": "B0GYTRYV7P",
-   "name": "Pitch Black Booster Bundle",
-   "group": "Pokemon",
-   "at": 1792996203
   }
  ]
 }
