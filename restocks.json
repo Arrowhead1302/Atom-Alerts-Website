@@ -1,8 +1,20 @@
 {
- "updated": 1793084979,
+ "updated": 1793086781,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
+   "group": "needoh",
+   "at": 1793074838
+  },
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1793074260
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie",
    "group": "needoh",
    "at": 1792938891
-  },
-  {
-   "asin": "B0G78HDPPR",
-   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
-   "group": "Pokemon",
-   "at": 1792936416
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1792936123
   }
  ]
 }
