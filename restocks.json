@@ -1,8 +1,14 @@
 {
- "updated": 1793227930,
+ "updated": 1793229732,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1793218505
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1793112377
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793105468
   }
  ]
 }
