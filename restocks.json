@@ -1,8 +1,20 @@
 {
- "updated": 1793194025,
+ "updated": 1793195831,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793184547
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1793183992
+  },
   {
    "asin": "B0BQZDQN6Q",
    "name": "NeeDoh Super Cool Cat",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
    "group": "needoh",
    "at": 1793051443
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1793049345
-  },
-  {
-   "asin": "B0DLPL7LC5",
-   "name": "Prismatic Evolutions Elite Trainer Box",
-   "group": "Pokemon",
-   "at": 1793047387
   }
  ]
 }
