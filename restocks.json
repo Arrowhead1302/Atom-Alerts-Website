@@ -1,8 +1,14 @@
 {
- "updated": 1793192220,
+ "updated": 1793194025,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0BQZDQN6Q",
+   "name": "NeeDoh Super Cool Cat",
+   "group": "needoh",
+   "at": 1793182109
+  },
   {
    "asin": "B0H77VZBX4",
    "name": "30th Celebration Tech Sticker Collection",
@@ -356,12 +362,6 @@
    "name": "Prismatic Evolutions Elite Trainer Box",
    "group": "Pokemon",
    "at": 1793047387
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1793047083
   }
  ]
 }
