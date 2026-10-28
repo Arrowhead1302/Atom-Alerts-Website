@@ -1,8 +1,14 @@
 {
- "updated": 1793195831,
+ "updated": 1793198475,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793187601
+  },
   {
    "asin": "B0CQKL94QC",
    "name": "Paldea Adventure Chest",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
    "at": 1793057835
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
-   "group": "needoh",
-   "at": 1793051443
   }
  ]
 }
