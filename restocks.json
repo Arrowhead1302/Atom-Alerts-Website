@@ -1,8 +1,14 @@
 {
- "updated": 1793158792,
+ "updated": 1793160594,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793148296
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Groovy Fruit",
    "group": "needoh",
    "at": 1793018278
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow",
-   "group": "needoh",
-   "at": 1793016346
   }
  ]
 }
