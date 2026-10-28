@@ -1,8 +1,14 @@
 {
- "updated": 1793152905,
+ "updated": 1793156989,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793146117
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1793016276
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1793012973
   }
  ]
 }
