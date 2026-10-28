@@ -1,8 +1,14 @@
 {
- "updated": 1793166362,
+ "updated": 1793170085,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G78HDPPR",
+   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
+   "group": "Pokemon",
+   "at": 1793159281
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Knockout Collection",
    "group": "Pokemon",
    "at": 1793028626
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793026977
   }
  ]
 }
