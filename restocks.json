@@ -1,8 +1,20 @@
 {
- "updated": 1793205338,
+ "updated": 1793207146,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1793195530
+  },
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793195081
+  },
   {
    "asin": "B0G3GMGVPJ",
    "name": "NeeDoh Jelly Squish",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793069802
-  },
-  {
-   "asin": "B07XLDRB2S",
-   "name": "NeeDoh Color Change",
-   "group": "needoh",
-   "at": 1793068432
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1793068214
   }
  ]
 }
