@@ -1,8 +1,14 @@
 {
- "updated": 1793175017,
+ "updated": 1793176823,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793164569
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Color Change Cube",
    "group": "needoh",
    "at": 1793039940
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793039325
   }
  ]
 }
