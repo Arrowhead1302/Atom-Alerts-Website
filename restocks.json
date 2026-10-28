@@ -1,8 +1,20 @@
 {
- "updated": 1793173212,
+ "updated": 1793175017,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0C6XBP4CW",
+   "name": "NeeDoh Gumdrop - Pack of 1",
+   "group": "needoh",
+   "at": 1793163037
+  },
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793162793
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -350,18 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1793039325
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793038595
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1793035846
   }
  ]
 }
