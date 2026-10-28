@@ -1,8 +1,14 @@
 {
- "updated": 1793229732,
+ "updated": 1793231774,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793220887
+  },
   {
    "asin": "B07XLDRB2S",
    "name": "NeeDoh Color Change",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1793113702
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793112377
   }
  ]
 }
