@@ -1,8 +1,14 @@
 {
- "updated": 1793310494,
+ "updated": 1793312312,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793299888
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Cool Cat",
    "group": "needoh",
    "at": 1793225626
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793225582
   }
  ]
 }
