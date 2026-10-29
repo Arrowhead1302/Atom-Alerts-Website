@@ -1,8 +1,14 @@
 {
- "updated": 1793243711,
+ "updated": 1793245513,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793234347
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "Pitch Black Booster Bundle",
    "group": "Pokemon",
    "at": 1793148296
-  },
-  {
-   "asin": "B0B2HN96TZ",
-   "name": "NeeDoh Gummy Bear (Assorted)",
-   "group": "needoh",
-   "at": 1793147027
   }
  ]
 }
