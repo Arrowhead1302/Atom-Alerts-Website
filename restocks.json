@@ -1,8 +1,20 @@
 {
- "updated": 1793269029,
+ "updated": 1793270837,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1793258788
+  },
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1793258579
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Groovy Fruit",
    "group": "needoh",
    "at": 1793183992
-  },
-  {
-   "asin": "B0BQZDQN6Q",
-   "name": "NeeDoh Super Cool Cat",
-   "group": "needoh",
-   "at": 1793182109
-  },
-  {
-   "asin": "B0H77VZBX4",
-   "name": "30th Celebration Tech Sticker Collection",
-   "group": "Pokemon",
-   "at": 1793180014
   }
  ]
 }
