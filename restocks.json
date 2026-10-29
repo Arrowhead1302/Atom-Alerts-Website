@@ -1,8 +1,20 @@
 {
- "updated": 1793282158,
+ "updated": 1793284077,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793271940
+  },
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear (Assorted)",
+   "group": "needoh",
+   "at": 1793271855
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Jelly Squish",
    "group": "needoh",
    "at": 1793192893
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793192878
-  },
-  {
-   "asin": "B0F95K9CN6",
-   "name": "NeeDoh Teenie Fuzz Ball 3pk",
-   "group": "needoh",
-   "at": 1793192867
   }
  ]
 }
