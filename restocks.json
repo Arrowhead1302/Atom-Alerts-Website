@@ -1,8 +1,14 @@
 {
- "updated": 1793306875,
+ "updated": 1793308685,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793297414
+  },
   {
    "asin": "B07PGQL36C",
    "name": "NeeDoh Groovy Fruit",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793223014
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793220887
   }
  ]
 }
