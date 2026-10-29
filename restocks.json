@@ -1,8 +1,20 @@
 {
- "updated": 1793297835,
+ "updated": 1793299643,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793288828
+  },
+  {
+   "asin": "B0BQZDQN6Q",
+   "name": "NeeDoh Super Cool Cat",
+   "group": "needoh",
+   "at": 1793288032
+  },
   {
    "asin": "B0C6X7XSZC",
    "name": "NeeDoh Teenie Funky Pups 3pk",
@@ -350,18 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1793206816
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1793206653
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793206331
   }
  ]
 }
