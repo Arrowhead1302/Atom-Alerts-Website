@@ -1,8 +1,14 @@
 {
- "updated": 1793272645,
+ "updated": 1793274453,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793263108
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793187982
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1793187601
   }
  ]
 }
