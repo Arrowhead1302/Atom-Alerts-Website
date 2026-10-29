@@ -1,8 +1,20 @@
 {
- "updated": 1793270837,
+ "updated": 1793272645,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793260971
+  },
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793260144
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -350,18 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1793187601
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793184547
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793183992
   }
  ]
 }
