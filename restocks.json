@@ -1,8 +1,14 @@
 {
- "updated": 1793274453,
+ "updated": 1793278062,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793267185
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gumdrop - Pack of 1",
    "group": "needoh",
    "at": 1793189098
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1793187982
   }
  ]
 }
