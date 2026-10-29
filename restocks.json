@@ -1,8 +1,20 @@
 {
- "updated": 1793251874,
+ "updated": 1793256991,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6XBP4CW",
+   "name": "NeeDoh Gumdrop - Pack of 1",
+   "group": "needoh",
+   "at": 1793246103
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793246102
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -350,18 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1793164569
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1793163037
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793162793
   }
  ]
 }
