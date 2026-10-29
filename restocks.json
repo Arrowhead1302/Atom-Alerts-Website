@@ -1,8 +1,20 @@
 {
- "updated": 1793238262,
+ "updated": 1793240107,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793229194
+  },
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1793228517
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1793131516
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown",
-   "group": "needoh",
-   "at": 1793129411
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1793128388
   }
  ]
 }
