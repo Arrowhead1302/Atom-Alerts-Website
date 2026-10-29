@@ -1,8 +1,20 @@
 {
- "updated": 1793236459,
+ "updated": 1793238262,
  "delay_hours": 3,
  "tag": "atomalerts-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793226337
+  },
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793225702
+  },
   {
    "asin": "B0BQZDQN6Q",
    "name": "NeeDoh Super Cool Cat",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Gumdrop - Pack of 1",
    "group": "needoh",
    "at": 1793128388
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793125480
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1793123217
   }
  ]
 }
