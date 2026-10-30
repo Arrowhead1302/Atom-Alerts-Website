@@ -1,8 +1,26 @@
 {
- "updated": 1793397196,
+ "updated": 1793399004,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793387913
+  },
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1793387273
+  },
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1793386601
+  },
   {
    "asin": "B0FH7NGBM4",
    "name": "NeeDoh Groovy Glob Purple",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1793313500
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793313483
-  },
-  {
-   "asin": "B0GRWHMQ13",
-   "name": "ORB Squishy Pig",
-   "group": "RMS Squishy",
-   "at": 1793311301
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1793306876
   }
  ]
 }
