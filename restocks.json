@@ -1,8 +1,26 @@
 {
- "updated": 1793335211,
+ "updated": 1793337022,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793325763
+  },
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1793324950
+  },
+  {
+   "asin": "B0FH7NGBM4",
+   "name": "NeeDoh Groovy Glob Purple",
+   "group": "needoh",
+   "at": 1793324594
+  },
   {
    "asin": "B0GW2DK37Q",
    "name": "First Partner Illustration Collection - Series 2",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Jelly Squish",
    "group": "needoh",
    "at": 1793248085
-  },
-  {
-   "asin": "B0FH7NGBM4",
-   "name": "NeeDoh Groovy Glob Purple",
-   "group": "needoh",
-   "at": 1793246361
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1793246103
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793246102
   }
  ]
 }
