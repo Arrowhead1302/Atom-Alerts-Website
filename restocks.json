@@ -1,8 +1,14 @@
 {
- "updated": 1793393420,
+ "updated": 1793397196,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0FH7NGBM4",
+   "name": "NeeDoh Groovy Glob Purple",
+   "group": "needoh",
+   "at": 1793386345
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1793306876
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1793305139
   }
  ]
 }
