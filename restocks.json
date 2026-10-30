@@ -1,8 +1,26 @@
 {
- "updated": 1793372264,
+ "updated": 1793374078,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1793362901
+  },
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1793362773
+  },
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1793362148
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -344,24 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1793289097
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1793288828
-  },
-  {
-   "asin": "B0BQZDQN6Q",
-   "name": "NeeDoh Super Cool Cat",
-   "group": "needoh",
-   "at": 1793288032
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1793286980
   }
  ]
 }
