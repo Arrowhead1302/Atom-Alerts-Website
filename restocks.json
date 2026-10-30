@@ -1,8 +1,14 @@
 {
- "updated": 1793384336,
+ "updated": 1793386150,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1793373642
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
    "group": "needoh",
    "at": 1793294737
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1793294050
   }
  ]
 }
