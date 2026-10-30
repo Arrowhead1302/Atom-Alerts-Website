@@ -1,8 +1,14 @@
 {
- "updated": 1793340645,
+ "updated": 1793343297,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1793332469
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1793258579
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793258183
   }
  ]
 }
