@@ -1,8 +1,14 @@
 {
- "updated": 1793377704,
+ "updated": 1793382525,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793371675
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793292868
-  },
-  {
-   "asin": "B07KRL5KF8",
-   "name": "NeeDoh Brand Original Super",
-   "group": "needoh",
-   "at": 1793291044
   }
  ]
 }
