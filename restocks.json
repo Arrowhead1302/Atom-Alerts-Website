@@ -1,8 +1,32 @@
 {
- "updated": 1793375890,
+ "updated": 1793377704,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B076FGVCRH",
+   "name": "NeeDoh Multi Color",
+   "group": "needoh",
+   "at": 1793366424
+  },
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793366100
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1793366021
+  },
+  {
+   "asin": "B0B4HVVN8B",
+   "name": "NeeDoh Funky Pups",
+   "group": "needoh",
+   "at": 1793365913
+  },
   {
    "asin": "B0GPY1XRKP",
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
@@ -338,30 +362,6 @@
    "name": "NeeDoh Brand Original Super",
    "group": "needoh",
    "at": 1793291044
-  },
-  {
-   "asin": "B0HJ6F8L6V",
-   "name": "Switch 2 Zelda 40th Anniversary Edition Console",
-   "group": "Other Drops",
-   "at": 1793290922
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793290548
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793290056
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1793289912
   }
  ]
 }
