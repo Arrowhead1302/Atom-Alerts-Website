@@ -1,8 +1,14 @@
 {
- "updated": 1793318096,
+ "updated": 1793322185,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRWHMQ13",
+   "name": "ORB Squishy Pig",
+   "group": "RMS Squishy",
+   "at": 1793311301
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1793229194
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1793228517
   }
  ]
 }
