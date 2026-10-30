@@ -1,8 +1,14 @@
 {
- "updated": 1793343297,
+ "updated": 1793345107,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKBJ83Z",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
+   "group": "RMS Squishy",
+   "at": 1793333678
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1793258788
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1793258579
   }
  ]
 }
