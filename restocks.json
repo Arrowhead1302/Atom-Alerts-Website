@@ -1,8 +1,14 @@
 {
- "updated": 1793345107,
+ "updated": 1793348359,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793337466
+  },
   {
    "asin": "B0HBKBJ83Z",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
@@ -356,12 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1793260144
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1793258788
   }
  ]
 }
