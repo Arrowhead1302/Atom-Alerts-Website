@@ -1,8 +1,20 @@
 {
- "updated": 1793388000,
+ "updated": 1793389806,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B07KRL5KF8",
+   "name": "NeeDoh Brand Original Super",
+   "group": "needoh",
+   "at": 1793377857
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793377373
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793298911
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793297414
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793295018
   }
  ]
 }
