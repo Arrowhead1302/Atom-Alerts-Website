@@ -1,8 +1,20 @@
 {
- "updated": 1793487828,
+ "updated": 1793489637,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBK9C59J",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
+   "group": "RMS Squishy",
+   "at": 1793478750
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793478714
+  },
   {
    "asin": "B0C6X7XSZC",
    "name": "NeeDoh Teenie Funky Pups 3pk",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1793381801
-  },
-  {
-   "asin": "B0G78HDPPR",
-   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
-   "group": "Pokemon",
-   "at": 1793380222
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793379442
   }
  ]
 }
