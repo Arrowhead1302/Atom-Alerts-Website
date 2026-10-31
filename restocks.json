@@ -1,8 +1,14 @@
 {
- "updated": 1793446401,
+ "updated": 1793452046,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793441133
+  },
   {
    "asin": "B0GFXY3M2N",
    "name": "Clickeez Care Bears 3-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793361032
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793359666
   }
  ]
 }
