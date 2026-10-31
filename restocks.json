@@ -1,8 +1,14 @@
 {
- "updated": 1793414934,
+ "updated": 1793416739,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793404314
+  },
   {
    "asin": "B0H7FR54KK",
    "name": "30th Celebration Battle Deck",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1793325763
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1793324950
   }
  ]
 }
