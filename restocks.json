@@ -1,8 +1,14 @@
 {
- "updated": 1793418545,
+ "updated": 1793423235,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793412339
+  },
   {
    "asin": "B0G78HDPPR",
    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Funky Pups 3pk",
    "group": "needoh",
    "at": 1793327764
-  },
-  {
-   "asin": "B0HNTX3DCJ",
-   "name": "Smushers Fruit 2 Pack",
-   "group": "RMS Squishy",
-   "at": 1793326449
   }
  ]
 }
