@@ -1,8 +1,26 @@
 {
- "updated": 1793406709,
+ "updated": 1793408517,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793397328
+  },
+  {
+   "asin": "B0HBK9C59J",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
+   "group": "RMS Squishy",
+   "at": 1793397014
+  },
+  {
+   "asin": "B0B4HVVN8B",
+   "name": "NeeDoh Funky Pups",
+   "group": "needoh",
+   "at": 1793397008
+  },
   {
    "asin": "B0C6X7XSZC",
    "name": "NeeDoh Teenie Funky Pups 3pk",
@@ -344,24 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1793319164
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793318269
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1793318205
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1793318077
   }
  ]
 }
