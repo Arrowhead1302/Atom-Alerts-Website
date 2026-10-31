@@ -1,8 +1,14 @@
 {
- "updated": 1793475545,
+ "updated": 1793477351,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear (Assorted)",
+   "group": "needoh",
+   "at": 1793466093
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1793371675
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1793366424
   }
  ]
 }
