@@ -1,8 +1,20 @@
 {
- "updated": 1793412858,
+ "updated": 1793414934,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793403917
+  },
+  {
+   "asin": "B0HBKBJ83Z",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
+   "group": "RMS Squishy",
+   "at": 1793402186
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Good Vibes Only",
    "group": "needoh",
    "at": 1793324950
-  },
-  {
-   "asin": "B0FH7NGBM4",
-   "name": "NeeDoh Groovy Glob Purple",
-   "group": "needoh",
-   "at": 1793324594
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1793323388
   }
  ]
 }
