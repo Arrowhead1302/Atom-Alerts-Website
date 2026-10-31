@@ -1,8 +1,14 @@
 {
- "updated": 1793485541,
+ "updated": 1793487828,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1793476910
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1793379442
-  },
-  {
-   "asin": "B07KRL5KF8",
-   "name": "NeeDoh Brand Original Super",
-   "group": "needoh",
-   "at": 1793377857
   }
  ]
 }
