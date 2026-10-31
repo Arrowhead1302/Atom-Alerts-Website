@@ -1,8 +1,26 @@
 {
- "updated": 1793463503,
+ "updated": 1793465317,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793454427
+  },
+  {
+   "asin": "B0HBK9C59J",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
+   "group": "RMS Squishy",
+   "at": 1793454278
+  },
+  {
+   "asin": "B0G3GH9L8B",
+   "name": "NeeDoh Cool Kitten Teenie Needoh 4 Pack",
+   "group": "needoh",
+   "at": 1793453315
+  },
   {
    "asin": "B07PGQL36C",
    "name": "NeeDoh Groovy Fruit",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1793364472
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793363915
-  },
-  {
-   "asin": "B0HBKBJ83Z",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
-   "group": "RMS Squishy",
-   "at": 1793363913
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1793362901
   }
  ]
 }
