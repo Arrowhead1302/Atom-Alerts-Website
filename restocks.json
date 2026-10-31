@@ -1,8 +1,14 @@
 {
- "updated": 1793433515,
+ "updated": 1793435321,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793422773
+  },
   {
    "asin": "B0DVZRP9MR",
    "name": "NeeDoh Good Vibes Only",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
    "group": "needoh",
    "at": 1793338370
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793337466
   }
  ]
 }
