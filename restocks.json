@@ -1,8 +1,20 @@
 {
- "updated": 1793437128,
+ "updated": 1793438936,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793427593
+  },
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear (Assorted)",
+   "group": "needoh",
+   "at": 1793426518
+  },
   {
    "asin": "B0B4HVVN8B",
    "name": "NeeDoh Funky Pups",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Multi Color",
    "group": "needoh",
    "at": 1793340050
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793340025
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793338766
   }
  ]
 }
