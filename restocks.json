@@ -1,8 +1,14 @@
 {
- "updated": 1793442549,
+ "updated": 1793446401,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1793435485
+  },
   {
    "asin": "B0GFGSS22C",
    "name": "Clickeez Series 3 12-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1793359666
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1793359361
   }
  ]
 }
