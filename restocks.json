@@ -1,8 +1,14 @@
 {
- "updated": 1793423235,
+ "updated": 1793425090,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H4M4VCMV",
+   "name": "Clickeez Controller",
+   "group": "Clickeez",
+   "at": 1793413711
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1793329049
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1793327764
   }
  ]
 }
