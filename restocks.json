@@ -1,8 +1,14 @@
 {
- "updated": 1793431708,
+ "updated": 1793433515,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1793420913
+  },
   {
    "asin": "B0HH8WK4M9",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1793337466
-  },
-  {
-   "asin": "B0HBKBJ83Z",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
-   "group": "RMS Squishy",
-   "at": 1793333678
   }
  ]
 }
