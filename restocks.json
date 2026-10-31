@@ -1,8 +1,14 @@
 {
- "updated": 1793459757,
+ "updated": 1793461691,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793450866
+  },
   {
    "asin": "B0DVZRP9MR",
    "name": "NeeDoh Good Vibes Only",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Good Vibes Only",
    "group": "needoh",
    "at": 1793362773
-  },
-  {
-   "asin": "B07XLDRB2S",
-   "name": "NeeDoh Color Change",
-   "group": "needoh",
-   "at": 1793362148
   }
  ]
 }
