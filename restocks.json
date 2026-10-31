@@ -1,8 +1,14 @@
 {
- "updated": 1793457466,
+ "updated": 1793459757,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1793448927
+  },
   {
    "asin": "B0G78HDPPR",
    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Color Change",
    "group": "needoh",
    "at": 1793362148
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793361335
   }
  ]
 }
