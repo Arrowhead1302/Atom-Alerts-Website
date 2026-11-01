@@ -1,8 +1,14 @@
 {
- "updated": 1793547407,
+ "updated": 1793549222,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1793538140
+  },
   {
    "asin": "B0GW2DK37Q",
    "name": "First Partner Illustration Collection - Series 2",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Cool Kitten Teenie Needoh 4 Pack",
    "group": "needoh",
    "at": 1793431573
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793430761
   }
  ]
 }
