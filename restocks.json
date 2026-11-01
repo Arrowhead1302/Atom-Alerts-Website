@@ -1,8 +1,14 @@
 {
- "updated": 1793541139,
+ "updated": 1793544995,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFH9YM",
+   "name": "NeeDoh Rainboh Teenie",
+   "group": "needoh",
+   "at": 1793534087
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -356,12 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1793430316
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793429889
   }
  ]
 }
