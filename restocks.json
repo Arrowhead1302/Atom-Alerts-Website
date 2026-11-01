@@ -1,8 +1,14 @@
 {
- "updated": 1793522428,
+ "updated": 1793525081,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793514241
+  },
   {
    "asin": "B07PGQL36C",
    "name": "NeeDoh Groovy Fruit",
@@ -356,12 +362,6 @@
    "name": "Clickeez Controller",
    "group": "Clickeez",
    "at": 1793413711
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793412339
   }
  ]
 }
