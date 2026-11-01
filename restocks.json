@@ -1,8 +1,14 @@
 {
- "updated": 1793534380,
+ "updated": 1793536192,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1793523587
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1793426518
-  },
-  {
-   "asin": "B0B4HVVN8B",
-   "name": "NeeDoh Funky Pups",
-   "group": "needoh",
-   "at": 1793425543
   }
  ]
 }
