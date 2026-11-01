@@ -1,8 +1,14 @@
 {
- "updated": 1793551033,
+ "updated": 1793552846,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793540575
+  },
   {
    "asin": "B07PGQL36C",
    "name": "NeeDoh Groovy Fruit",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1793435485
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1793431639
   }
  ]
 }
