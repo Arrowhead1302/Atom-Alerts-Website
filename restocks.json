@@ -1,8 +1,14 @@
 {
- "updated": 1793544995,
+ "updated": 1793547407,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793536538
+  },
   {
    "asin": "B0BQZFH9YM",
    "name": "NeeDoh Rainboh Teenie",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
    "group": "RMS Squishy",
    "at": 1793430761
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793430316
   }
  ]
 }
