@@ -1,8 +1,14 @@
 {
- "updated": 1793493253,
+ "updated": 1793495421,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DTY5228W",
+   "name": "Charizard ex Special Collection",
+   "group": "Pokemon",
+   "at": 1793484604
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1793392206
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793387913
   }
  ]
 }
