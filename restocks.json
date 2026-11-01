@@ -1,8 +1,14 @@
 {
- "updated": 1793554688,
+ "updated": 1793556952,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793545435
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
    "group": "Pokemon",
    "at": 1793446557
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1793441133
   }
  ]
 }
