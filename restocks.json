@@ -1,8 +1,14 @@
 {
- "updated": 1793499039,
+ "updated": 1793500847,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793489490
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1793393945
-  },
-  {
-   "asin": "B0DVM1D94C",
-   "name": "Clickeez 5-Pack",
-   "group": "Clickeez",
-   "at": 1793393810
   }
  ]
 }
