@@ -1,8 +1,14 @@
 {
- "updated": 1793564176,
+ "updated": 1793569059,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793558164
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1793466093
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1793464317
   }
  ]
 }
