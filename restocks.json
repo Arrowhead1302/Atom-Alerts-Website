@@ -1,8 +1,26 @@
 {
- "updated": 1793489637,
+ "updated": 1793491446,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKCPQYJ",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
+   "group": "RMS Squishy",
+   "at": 1793480466
+  },
+  {
+   "asin": "B0BQZFH9YM",
+   "name": "NeeDoh Rainboh Teenie",
+   "group": "needoh",
+   "at": 1793480454
+  },
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793480274
+  },
   {
    "asin": "B0HBK9C59J",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1793387273
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1793386601
-  },
-  {
-   "asin": "B0FH7NGBM4",
-   "name": "NeeDoh Groovy Glob Purple",
-   "group": "needoh",
-   "at": 1793386345
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793381801
   }
  ]
 }
