@@ -1,8 +1,14 @@
 {
- "updated": 1793520618,
+ "updated": 1793522428,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1793509854
+  },
   {
    "asin": "B0GFXY3M2N",
    "name": "Clickeez Care Bears 3-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793412339
-  },
-  {
-   "asin": "B0G78HDPPR",
-   "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium/Emboar/Feraligatr ex Box",
-   "group": "Pokemon",
-   "at": 1793406861
   }
  ]
 }
