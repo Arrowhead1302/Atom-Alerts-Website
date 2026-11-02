@@ -1,8 +1,14 @@
 {
- "updated": 1793609848,
+ "updated": 1793611656,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKCPQYJ",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
+   "group": "RMS Squishy",
+   "at": 1793599812
+  },
   {
    "asin": "B0F2BCG1Y5",
    "name": "Destined Rivals Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1793509144
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793507922
   }
  ]
 }
