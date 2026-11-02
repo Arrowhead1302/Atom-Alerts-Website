@@ -1,8 +1,14 @@
 {
- "updated": 1793642725,
+ "updated": 1793646334,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HH8WK4M9",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
+   "group": "RMS Squishy",
+   "at": 1793635462
+  },
   {
    "asin": "B0DVZRP9MR",
    "name": "NeeDoh Good Vibes Only",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
    "at": 1793536538
-  },
-  {
-   "asin": "B0BQZFH9YM",
-   "name": "NeeDoh Rainboh Teenie",
-   "group": "needoh",
-   "at": 1793534087
   }
  ]
 }
