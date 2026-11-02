@@ -1,8 +1,14 @@
 {
- "updated": 1793625877,
+ "updated": 1793628769,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793617916
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1793520690
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793518514
   }
  ]
 }
