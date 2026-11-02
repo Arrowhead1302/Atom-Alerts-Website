@@ -1,8 +1,20 @@
 {
- "updated": 1793632499,
+ "updated": 1793634306,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B076FGVCRH",
+   "name": "NeeDoh Multi Color",
+   "group": "needoh",
+   "at": 1793623059
+  },
+  {
+   "asin": "B0BQZFH9YM",
+   "name": "NeeDoh Rainboh Teenie",
+   "group": "needoh",
+   "at": 1793622646
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793528477
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1793523587
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793522338
   }
  ]
 }
