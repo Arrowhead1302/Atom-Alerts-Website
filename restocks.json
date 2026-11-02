@@ -1,8 +1,14 @@
 {
- "updated": 1793628769,
+ "updated": 1793630579,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1793618447
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793521743
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793520690
   }
  ]
 }
