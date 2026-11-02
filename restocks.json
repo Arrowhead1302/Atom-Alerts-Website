@@ -1,8 +1,20 @@
 {
- "updated": 1793589130,
+ "updated": 1793590937,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793579837
+  },
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793579770
+  },
   {
    "asin": "B0F95K9CN6",
    "name": "NeeDoh Teenie Fuzz Ball 3pk",
@@ -350,18 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793480466
-  },
-  {
-   "asin": "B0BQZFH9YM",
-   "name": "NeeDoh Rainboh Teenie",
-   "group": "needoh",
-   "at": 1793480454
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793480274
   }
  ]
 }
