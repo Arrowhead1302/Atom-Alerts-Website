@@ -1,8 +1,14 @@
 {
- "updated": 1793618886,
+ "updated": 1793620697,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DVZRP9MR",
+   "name": "NeeDoh Good Vibes Only",
+   "group": "needoh",
+   "at": 1793609667
+  },
   {
    "asin": "B0GFXY3M2N",
    "name": "Clickeez Care Bears 3-Pack",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1793518118
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793514699
   }
  ]
 }
