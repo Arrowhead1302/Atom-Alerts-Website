@@ -1,8 +1,26 @@
 {
- "updated": 1793696754,
+ "updated": 1793698566,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B076FGVCRH",
+   "name": "NeeDoh Multi Color",
+   "group": "needoh",
+   "at": 1793687234
+  },
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793687067
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793687008
+  },
   {
    "asin": "B0HBKBJ83Z",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
@@ -344,24 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
    "group": "RMS Squishy",
    "at": 1793603445
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793599812
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793597561
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793597367
   }
  ]
 }
