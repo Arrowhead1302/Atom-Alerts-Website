@@ -1,8 +1,14 @@
 {
- "updated": 1793682764,
+ "updated": 1793687338,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1793676442
+  },
   {
    "asin": "B0GFGSS22C",
    "name": "Clickeez Series 3 12-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1793588018
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793587775
   }
  ]
 }
