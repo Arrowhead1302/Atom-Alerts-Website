@@ -1,8 +1,14 @@
 {
- "updated": 1793698566,
+ "updated": 1793700376,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793688854
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1793606215
-  },
-  {
-   "asin": "B0HBKBJ83Z",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
-   "group": "RMS Squishy",
-   "at": 1793603445
   }
  ]
 }
