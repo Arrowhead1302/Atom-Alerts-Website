@@ -1,8 +1,26 @@
 {
- "updated": 1793668302,
+ "updated": 1793670111,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKCPQYJ",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
+   "group": "RMS Squishy",
+   "at": 1793659117
+  },
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793658858
+  },
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1793658189
+  },
   {
    "asin": "B0F2BCG1Y5",
    "name": "Destined Rivals Booster Bundle",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1793575675
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1793574687
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793573577
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793573474
   }
  ]
 }
