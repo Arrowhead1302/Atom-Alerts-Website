@@ -1,8 +1,32 @@
 {
- "updated": 1793741113,
+ "updated": 1793742919,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793731416
+  },
+  {
+   "asin": "B0HBKBJ83Z",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
+   "group": "RMS Squishy",
+   "at": 1793731404
+  },
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1793731338
+  },
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1793730702
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -338,30 +362,6 @@
    "name": "151 Mini Tin",
    "group": "Pokemon",
    "at": 1793648641
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793646756
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1793646477
-  },
-  {
-   "asin": "B0H7818RCM",
-   "name": "30th Celebration ex Box (Sylveon or Greninja)",
-   "group": "Pokemon",
-   "at": 1793645629
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793645144
   }
  ]
 }
