@@ -1,8 +1,14 @@
 {
- "updated": 1793704001,
+ "updated": 1793706172,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793695354
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1793613223
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1793609667
   }
  ]
 }
