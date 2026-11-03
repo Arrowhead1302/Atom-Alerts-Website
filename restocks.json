@@ -1,8 +1,14 @@
 {
- "updated": 1793707986,
+ "updated": 1793709929,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793698209
+  },
   {
    "asin": "B0HBK9C59J",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1793617916
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793613386
   }
  ]
 }
