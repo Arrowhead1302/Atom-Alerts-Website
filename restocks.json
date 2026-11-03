@@ -1,8 +1,14 @@
 {
- "updated": 1793722974,
+ "updated": 1793726118,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793715260
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1793635645
-  },
-  {
-   "asin": "B0HH8WK4M9",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
-   "group": "RMS Squishy",
-   "at": 1793635462
   }
  ]
 }
