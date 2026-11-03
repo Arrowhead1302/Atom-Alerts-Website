@@ -1,8 +1,20 @@
 {
- "updated": 1793744727,
+ "updated": 1793746535,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793734607
+  },
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1793733952
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -350,18 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1793657428
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793652802
-  },
-  {
-   "asin": "B0G2TKXBYB",
-   "name": "151 Mini Tin 2",
-   "group": "Pokemon",
-   "at": 1793649656
   }
  ]
 }
