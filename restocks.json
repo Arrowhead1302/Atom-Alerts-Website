@@ -1,8 +1,20 @@
 {
- "updated": 1793726118,
+ "updated": 1793727933,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1793717040
+  },
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1793715443
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -350,18 +362,6 @@
    "name": "Paldea Adventure Chest",
    "group": "Pokemon",
    "at": 1793637258
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793635999
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793635645
   }
  ]
 }
