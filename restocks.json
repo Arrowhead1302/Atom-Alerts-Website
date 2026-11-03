@@ -1,8 +1,14 @@
 {
- "updated": 1793715719,
+ "updated": 1793717531,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKCPQYJ",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
+   "group": "RMS Squishy",
+   "at": 1793704920
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1793622646
-  },
-  {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1793621536
   }
  ]
 }
