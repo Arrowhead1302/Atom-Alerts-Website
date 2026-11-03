@@ -1,8 +1,14 @@
 {
- "updated": 1793663612,
+ "updated": 1793668302,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793657428
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1793573474
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1793572817
   }
  ]
 }
