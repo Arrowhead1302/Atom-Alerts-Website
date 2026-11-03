@@ -1,8 +1,26 @@
 {
- "updated": 1793717531,
+ "updated": 1793719345,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793708025
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793707692
+  },
+  {
+   "asin": "B0HBKBJ83Z",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
+   "group": "RMS Squishy",
+   "at": 1793707599
+  },
   {
    "asin": "B0HBKCPQYJ",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
@@ -344,24 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
    "group": "RMS Squishy",
    "at": 1793624078
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793623624
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1793623059
-  },
-  {
-   "asin": "B0BQZFH9YM",
-   "name": "NeeDoh Rainboh Teenie",
-   "group": "needoh",
-   "at": 1793622646
   }
  ]
 }
