@@ -1,8 +1,20 @@
 {
- "updated": 1793694943,
+ "updated": 1793696754,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKBJ83Z",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
+   "group": "RMS Squishy",
+   "at": 1793685030
+  },
+  {
+   "asin": "B0HH8WK4M9",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
+   "group": "RMS Squishy",
+   "at": 1793684945
+  },
   {
    "asin": "B0BQZFVJTB",
    "name": "NeeDoh Nice Cube - Pack of 1",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1793597367
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793595792
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793595149
   }
  ]
 }
