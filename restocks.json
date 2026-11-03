@@ -1,8 +1,20 @@
 {
- "updated": 1793733377,
+ "updated": 1793735191,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793723736
+  },
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793722611
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -350,18 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1793642725
-  },
-  {
-   "asin": "B0DTY5228W",
-   "name": "Charizard ex Special Collection",
-   "group": "Pokemon",
-   "at": 1793641936
-  },
-  {
-   "asin": "B0HBKBJ83Z",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
-   "group": "RMS Squishy",
-   "at": 1793641693
   }
  ]
 }
