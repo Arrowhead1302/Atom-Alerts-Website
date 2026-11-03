@@ -1,8 +1,20 @@
 {
- "updated": 1793719345,
+ "updated": 1793721158,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793709495
+  },
+  {
+   "asin": "B0H2632Q8X",
+   "name": "ORB Curiosities Smushers",
+   "group": "RMS Squishy",
+   "at": 1793708615
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Good Vibes Only",
    "group": "needoh",
    "at": 1793631859
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793628511
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793624078
   }
  ]
 }
