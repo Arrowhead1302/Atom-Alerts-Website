@@ -1,8 +1,14 @@
 {
- "updated": 1793761706,
+ "updated": 1793764956,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793754105
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1793663456
-  },
-  {
-   "asin": "B0HBKBJ83Z",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
-   "group": "RMS Squishy",
-   "at": 1793663358
   }
  ]
 }
