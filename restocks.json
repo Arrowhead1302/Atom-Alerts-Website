@@ -1,8 +1,26 @@
 {
- "updated": 1793773026,
+ "updated": 1793774834,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2632Q8X",
+   "name": "ORB Curiosities Smushers",
+   "group": "RMS Squishy",
+   "at": 1793763155
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793762932
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793762577
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1793677480
-  },
-  {
-   "asin": "B0DV49SQ71",
-   "name": "NeeDoh SplootSplat -The Splat That Sploots",
-   "group": "needoh",
-   "at": 1793676442
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1793671875
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793668392
   }
  ]
 }
