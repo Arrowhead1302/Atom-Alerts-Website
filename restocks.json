@@ -1,8 +1,14 @@
 {
- "updated": 1793774834,
+ "updated": 1793777966,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793767049
+  },
   {
    "asin": "B0H2632Q8X",
    "name": "ORB Curiosities Smushers",
@@ -356,12 +362,6 @@
    "name": "Paldea Adventure Chest",
    "group": "Pokemon",
    "at": 1793680475
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793677480
   }
  ]
 }
