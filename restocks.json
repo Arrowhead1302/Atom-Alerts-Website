@@ -1,8 +1,32 @@
 {
- "updated": 1793809092,
+ "updated": 1793810909,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793799760
+  },
+  {
+   "asin": "B0G2TKXBYB",
+   "name": "151 Mini Tin 2",
+   "group": "Pokemon",
+   "at": 1793799509
+  },
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793799293
+  },
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793798448
+  },
   {
    "asin": "B0HBKCPQYJ",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
@@ -338,30 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793704920
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793704882
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793702133
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793698209
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793696587
   }
  ]
 }
