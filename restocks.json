@@ -1,8 +1,14 @@
 {
- "updated": 1793750150,
+ "updated": 1793756279,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793745407
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793659117
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793658858
   }
  ]
 }
