@@ -1,8 +1,14 @@
 {
- "updated": 1793816770,
+ "updated": 1793819058,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBK9C59J",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
+   "group": "RMS Squishy",
+   "at": 1793808200
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793708025
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793707692
   }
  ]
 }
