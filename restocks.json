@@ -1,8 +1,14 @@
 {
- "updated": 1793810909,
+ "updated": 1793814483,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKTS46",
+   "name": "NeeDoh Color Change Cube",
+   "group": "needoh",
+   "at": 1793803681
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKBJ83Z)",
    "group": "RMS Squishy",
    "at": 1793707599
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793704920
   }
  ]
 }
