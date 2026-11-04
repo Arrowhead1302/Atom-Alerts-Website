@@ -1,8 +1,14 @@
 {
- "updated": 1793771216,
+ "updated": 1793773026,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793760830
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1793668392
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793665854
   }
  ]
 }
