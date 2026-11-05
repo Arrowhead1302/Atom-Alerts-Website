@@ -1,8 +1,26 @@
 {
- "updated": 1793891297,
+ "updated": 1793893113,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTQRBSL",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
+   "group": "RMS Squishy",
+   "at": 1793881843
+  },
+  {
+   "asin": "B0HNTS47G6",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
+   "group": "RMS Squishy",
+   "at": 1793881840
+  },
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1793881550
+  },
   {
    "asin": "B0H4M4VCMV",
    "name": "Clickeez Controller",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1793809635
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793809381
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793808200
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1793805961
   }
  ]
 }
