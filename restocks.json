@@ -1,8 +1,20 @@
 {
- "updated": 1793902673,
+ "updated": 1793904507,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793893034
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793892624
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -350,18 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793825425
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793824595
-  },
-  {
-   "asin": "B0F95K9CN6",
-   "name": "NeeDoh Teenie Fuzz Ball 3pk",
-   "group": "needoh",
-   "at": 1793824130
   }
  ]
 }
