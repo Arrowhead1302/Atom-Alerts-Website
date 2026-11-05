@@ -1,8 +1,26 @@
 {
- "updated": 1793899040,
+ "updated": 1793900856,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1793890018
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1793889642
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793889307
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1793817143
-  },
-  {
-   "asin": "B0B2HN96TZ",
-   "name": "NeeDoh Gummy Bear (Assorted)",
-   "group": "needoh",
-   "at": 1793812738
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793811305
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793810589
   }
  ]
 }
