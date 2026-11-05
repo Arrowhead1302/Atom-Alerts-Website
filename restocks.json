@@ -1,8 +1,26 @@
 {
- "updated": 1793909936,
+ "updated": 1793911746,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTLMB9M",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
+   "group": "RMS Squishy",
+   "at": 1793900806
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793900147
+  },
+  {
+   "asin": "B07KRL5KF8",
+   "name": "NeeDoh Brand Original Super",
+   "group": "needoh",
+   "at": 1793899721
+  },
   {
    "asin": "B0BQZFVJTB",
    "name": "NeeDoh Nice Cube - Pack of 1",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1793833069
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793832556
-  },
-  {
-   "asin": "B0HNTLMB9M",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack",
-   "group": "RMS Squishy",
-   "at": 1793832128
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793831881
   }
  ]
 }
