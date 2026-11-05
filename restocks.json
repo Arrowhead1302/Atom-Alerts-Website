@@ -1,8 +1,14 @@
 {
- "updated": 1793893113,
+ "updated": 1793895406,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793884523
+  },
   {
    "asin": "B0HNTQRBSL",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
@@ -356,12 +362,6 @@
    "name": "151 Mini Tin",
    "group": "Pokemon",
    "at": 1793809682
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1793809635
   }
  ]
 }
