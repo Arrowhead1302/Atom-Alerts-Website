@@ -1,8 +1,20 @@
 {
- "updated": 1793866287,
+ "updated": 1793868340,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1793857539
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1793857522
+  },
   {
    "asin": "B0GPY1XRKP",
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
@@ -350,18 +362,6 @@
    "name": "Paldea Adventure Chest",
    "group": "Pokemon",
    "at": 1793767049
-  },
-  {
-   "asin": "B0H2632Q8X",
-   "name": "ORB Curiosities Smushers",
-   "group": "RMS Squishy",
-   "at": 1793763155
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1793762932
   }
  ]
 }
