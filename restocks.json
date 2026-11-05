@@ -1,8 +1,14 @@
 {
- "updated": 1793838569,
+ "updated": 1793840377,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1793828070
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793726795
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793723736
   }
  ]
 }
