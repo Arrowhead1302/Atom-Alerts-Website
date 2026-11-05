@@ -1,8 +1,14 @@
 {
- "updated": 1793873167,
+ "updated": 1793875103,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6XBP4CW",
+   "name": "NeeDoh Gumdrop - Pack of 1",
+   "group": "needoh",
+   "at": 1793864302
+  },
   {
    "asin": "B0HH8WK4M9",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTYJ9QW)",
    "group": "RMS Squishy",
    "at": 1793783187
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793778389
   }
  ]
 }
