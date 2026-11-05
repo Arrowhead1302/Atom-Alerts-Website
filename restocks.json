@@ -1,8 +1,14 @@
 {
- "updated": 1793845793,
+ "updated": 1793847721,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793836823
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1793736485
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793734607
   }
  ]
 }
