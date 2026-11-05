@@ -1,8 +1,14 @@
 {
- "updated": 1793875103,
+ "updated": 1793876916,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793864377
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1793783239
-  },
-  {
-   "asin": "B0HNTYJ9QW",
-   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTYJ9QW)",
-   "group": "RMS Squishy",
-   "at": 1793783187
   }
  ]
 }
