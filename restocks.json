@@ -1,8 +1,14 @@
 {
- "updated": 1793918498,
+ "updated": 1793920308,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793908639
+  },
   {
    "asin": "B0CQKL94QC",
    "name": "Paldea Adventure Chest",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1793852238
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793851417
   }
  ]
 }
