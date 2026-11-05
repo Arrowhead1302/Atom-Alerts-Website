@@ -1,8 +1,26 @@
 {
- "updated": 1793840377,
+ "updated": 1793842185,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793831096
+  },
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793830857
+  },
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1793830366
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -344,24 +362,6 @@
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
    "group": "needoh",
    "at": 1793731338
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793730702
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1793730224
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793726795
   }
  ]
 }
