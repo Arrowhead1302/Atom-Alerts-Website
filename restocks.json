@@ -1,8 +1,14 @@
 {
- "updated": 1793836401,
+ "updated": 1793838569,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1793827750
+  },
   {
    "asin": "B0HBKCPQYJ",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
@@ -356,12 +362,6 @@
    "name": "Paldea Adventure Chest",
    "group": "Pokemon",
    "at": 1793723736
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793722611
   }
  ]
 }
