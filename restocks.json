@@ -1,8 +1,20 @@
 {
- "updated": 1793876916,
+ "updated": 1793878727,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1793867866
+  },
+  {
+   "asin": "B0HBK9C59J",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
+   "group": "RMS Squishy",
+   "at": 1793867148
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793784254
-  },
-  {
-   "asin": "B0HNTP8CQF",
-   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
-   "group": "RMS Squishy",
-   "at": 1793783495
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793783239
   }
  ]
 }
