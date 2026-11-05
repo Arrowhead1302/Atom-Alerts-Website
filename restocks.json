@@ -1,8 +1,38 @@
 {
- "updated": 1793889481,
+ "updated": 1793891297,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H4M4VCMV",
+   "name": "Clickeez Controller",
+   "group": "Clickeez",
+   "at": 1793880150
+  },
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793879732
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1793879563
+  },
+  {
+   "asin": "B0H2632Q8X",
+   "name": "ORB Curiosities Smushers",
+   "group": "RMS Squishy",
+   "at": 1793879382
+  },
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1793878730
+  },
   {
    "asin": "B0HBKCPQYJ",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
@@ -332,36 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793805961
-  },
-  {
-   "asin": "B0G3GKTS46",
-   "name": "NeeDoh Color Change Cube",
-   "group": "needoh",
-   "at": 1793803681
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793799760
-  },
-  {
-   "asin": "B0G2TKXBYB",
-   "name": "151 Mini Tin 2",
-   "group": "Pokemon",
-   "at": 1793799509
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793799293
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793798448
   }
  ]
 }
