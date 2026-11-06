@@ -1,8 +1,20 @@
 {
- "updated": 1793961013,
+ "updated": 1793962830,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793952029
+  },
+  {
+   "asin": "B0HNTS47G6",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
+   "group": "RMS Squishy",
+   "at": 1793950282
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -350,18 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
    "group": "RMS Squishy",
    "at": 1793881843
-  },
-  {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1793881840
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1793881550
   }
  ]
 }
