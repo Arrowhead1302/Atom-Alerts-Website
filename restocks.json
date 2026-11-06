@@ -1,8 +1,20 @@
 {
- "updated": 1793962830,
+ "updated": 1793964650,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1793953477
+  },
+  {
+   "asin": "B0CQKL94QC",
+   "name": "Paldea Adventure Chest",
+   "group": "Pokemon",
+   "at": 1793952713
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1793884749
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793884523
-  },
-  {
-   "asin": "B0HNTQRBSL",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
-   "group": "RMS Squishy",
-   "at": 1793881843
   }
  ]
 }
