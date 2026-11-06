@@ -1,8 +1,14 @@
 {
- "updated": 1793948068,
+ "updated": 1793949883,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1793938281
+  },
   {
    "asin": "B0HNTQRBSL",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack",
    "group": "RMS Squishy",
    "at": 1793876668
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793874770
   }
  ]
 }
