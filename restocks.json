@@ -1,8 +1,14 @@
 {
- "updated": 1794001547,
+ "updated": 1794003352,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1793991497
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
    "group": "RMS Squishy",
    "at": 1793901265
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793901219
   }
  ]
 }
