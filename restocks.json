@@ -1,8 +1,20 @@
 {
- "updated": 1793934656,
+ "updated": 1793936467,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTLMB9M",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
+   "group": "RMS Squishy",
+   "at": 1793925192
+  },
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793924644
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1793857679
-  },
-  {
-   "asin": "B0DV49SQ71",
-   "name": "NeeDoh SplootSplat -The Splat That Sploots",
-   "group": "needoh",
-   "at": 1793857539
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793857522
   }
  ]
 }
