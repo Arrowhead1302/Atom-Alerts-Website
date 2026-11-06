@@ -1,8 +1,20 @@
 {
- "updated": 1793987263,
+ "updated": 1793989082,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1793977864
+  },
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1793977476
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -350,18 +362,6 @@
    "name": "151 Mini Tin",
    "group": "Pokemon",
    "at": 1793896196
-  },
-  {
-   "asin": "B0DV49SQ71",
-   "name": "NeeDoh SplootSplat -The Splat That Sploots",
-   "group": "needoh",
-   "at": 1793895949
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1793895702
   }
  ]
 }
