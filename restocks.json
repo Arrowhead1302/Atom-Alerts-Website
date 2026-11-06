@@ -1,8 +1,14 @@
 {
- "updated": 1793957379,
+ "updated": 1793959197,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1793947495
+  },
   {
    "asin": "B0F2BCG1Y5",
    "name": "Destined Rivals Booster Bundle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1793879732
-  },
-  {
-   "asin": "B07PGQL36C",
-   "name": "NeeDoh Groovy Fruit",
-   "group": "needoh",
-   "at": 1793879563
   }
  ]
 }
