@@ -1,8 +1,20 @@
 {
- "updated": 1793942031,
+ "updated": 1793944443,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1793933641
+  },
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1793933604
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1793873364
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1793873208
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793870396
   }
  ]
 }
