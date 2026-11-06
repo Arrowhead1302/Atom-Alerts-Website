@@ -1,8 +1,14 @@
 {
- "updated": 1793964650,
+ "updated": 1793966472,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1793955483
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1793887459
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1793884749
   }
  ]
 }
