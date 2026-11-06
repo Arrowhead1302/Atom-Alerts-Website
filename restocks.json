@@ -1,8 +1,20 @@
 {
- "updated": 1793989082,
+ "updated": 1793990902,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H728GKDS",
+   "name": "NeeDoh Pink Purple",
+   "group": "needoh",
+   "at": 1793979955
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1793978452
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Nice Cube - Pack of 1",
    "group": "needoh",
    "at": 1793897457
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1793897301
-  },
-  {
-   "asin": "B0HP3T4J98",
-   "name": "151 Mini Tin",
-   "group": "Pokemon",
-   "at": 1793896196
   }
  ]
 }
