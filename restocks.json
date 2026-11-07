@@ -1,367 +1,103 @@
 {
- "updated": 1794003352,
+ "updated": 1794032593,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
   {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794021593
+  },
+  {
+   "asin": "B0GFGLD4TW",
+   "name": "Series 3 Keyboard Mega",
    "group": "Clickeez",
-   "at": 1793991497
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1793989968
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1793988841
-  },
-  {
-   "asin": "B0HBK9C59J",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBK9C59J)",
-   "group": "RMS Squishy",
-   "at": 1793984553
+   "at": 1794018753
   },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
-   "at": 1793982820
+   "at": 1794016748
   },
   {
-   "asin": "B0BQZFH9YM",
-   "name": "NeeDoh Rainboh Teenie",
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
-   "at": 1793980675
+   "at": 1794013381
   },
   {
-   "asin": "B0H728GKDS",
-   "name": "NeeDoh Pink Purple",
+   "asin": "B0F95K9CN6",
+   "name": "NeeDoh Teenie Fuzz Ball 3pk",
    "group": "needoh",
-   "at": 1793979955
+   "at": 1794007984
   },
   {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793978452
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793977864
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
-   "at": 1793977476
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793976118
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1793974701
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793973807
+   "at": 1794007279
   },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
    "group": "needoh",
-   "at": 1793972731
+   "at": 1794004538
   },
   {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1793969474
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793961146
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
    "group": "needoh",
-   "at": 1793958514
+   "at": 1794003057
   },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
-   "at": 1793957042
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1793956680
+   "at": 1794002236
   },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
-   "at": 1793955483
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793953477
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793952713
+   "at": 1793998953
   },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
-   "at": 1793952029
+   "at": 1793998864
   },
   {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1793950282
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1793949830
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
-   "at": 1793949733
+   "at": 1793998629
   },
   {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
-   "at": 1793947495
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1793946039
-  },
-  {
-   "asin": "B0BQZFH9YM",
-   "name": "NeeDoh Rainboh Teenie",
-   "group": "needoh",
-   "at": 1793944682
+   "at": 1793996434
   },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
    "group": "needoh",
-   "at": 1793939830
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1793939381
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1793938281
-  },
-  {
-   "asin": "B0HNTQRBSL",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
-   "group": "RMS Squishy",
-   "at": 1793936513
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1793935043
-  },
-  {
-   "asin": "B0H728GKDS",
-   "name": "NeeDoh Pink Purple",
-   "group": "needoh",
-   "at": 1793934342
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793933641
-  },
-  {
-   "asin": "B0BQZFVJTB",
-   "name": "NeeDoh Nice Cube - Pack of 1",
-   "group": "needoh",
-   "at": 1793933604
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793931181
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793929244
-  },
-  {
-   "asin": "B0H72DC5YT",
-   "name": "NeeDoh Blue Green",
-   "group": "needoh",
-   "at": 1793928301
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1793928048
-  },
-  {
-   "asin": "B0H2632Q8X",
-   "name": "ORB Curiosities Smushers",
-   "group": "RMS Squishy",
-   "at": 1793927273
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1793926229
-  },
-  {
-   "asin": "B0HNTLMB9M",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
-   "group": "RMS Squishy",
-   "at": 1793925192
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793924644
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1793923817
+   "at": 1793995881
   },
   {
    "asin": "B0GPY1XRKP",
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
-   "at": 1793917451
+   "at": 1793995311
   },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
-   "at": 1793916383
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1793913347
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1793911415
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1793908639
-  },
-  {
-   "asin": "B0CQKL94QC",
-   "name": "Paldea Adventure Chest",
-   "group": "Pokemon",
-   "at": 1793907604
-  },
-  {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1793903947
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1793903827
-  },
-  {
-   "asin": "B0HNTQRBSL",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
-   "group": "RMS Squishy",
-   "at": 1793903598
-  },
-  {
-   "asin": "B0H728GKDS",
-   "name": "NeeDoh Pink Purple",
-   "group": "needoh",
-   "at": 1793902932
-  },
-  {
-   "asin": "B0H72DC5YT",
-   "name": "NeeDoh Blue Green",
-   "group": "needoh",
-   "at": 1793902687
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1793901789
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1793901427
-  },
-  {
-   "asin": "B0HBKCPQYJ",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKCPQYJ)",
-   "group": "RMS Squishy",
-   "at": 1793901265
+   "at": 1793995139
   }
  ]
 }
