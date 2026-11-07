@@ -1,8 +1,20 @@
 {
- "updated": 1794074705,
+ "updated": 1794079511,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GN6Q72",
+   "name": "NeeDoh Nice Cream Cone",
+   "group": "needoh",
+   "at": 1794068635
+  },
+  {
+   "asin": "B0BQZDQN6Q",
+   "name": "NeeDoh Super Cool Cat",
+   "group": "needoh",
+   "at": 1794068594
+  },
   {
    "asin": "B0GPY1XRKP",
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
