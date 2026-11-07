@@ -1,8 +1,38 @@
 {
- "updated": 1794079511,
+ "updated": 1794081316,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794070189
+  },
+  {
+   "asin": "B0H72DC5YT",
+   "name": "NeeDoh Blue Green",
+   "group": "needoh",
+   "at": 1794070183
+  },
+  {
+   "asin": "B0H728GKDS",
+   "name": "NeeDoh Pink Purple",
+   "group": "needoh",
+   "at": 1794069995
+  },
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1794069522
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794069091
+  },
   {
    "asin": "B0G3GN6Q72",
    "name": "NeeDoh Nice Cream Cone",
