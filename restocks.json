@@ -1,8 +1,14 @@
 {
- "updated": 1794133337,
+ "updated": 1794137794,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1794126990
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1794054830
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794054397
   }
  ]
 }
