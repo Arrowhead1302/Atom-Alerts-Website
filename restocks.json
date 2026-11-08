@@ -1,8 +1,20 @@
 {
- "updated": 1794110078,
+ "updated": 1794111886,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1794100893
+  },
+  {
+   "asin": "B0DV4BCCHV",
+   "name": "NeeDoh Mello Mallo",
+   "group": "needoh",
+   "at": 1794099824
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1794023882
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794023633
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794022892
   }
  ]
 }
