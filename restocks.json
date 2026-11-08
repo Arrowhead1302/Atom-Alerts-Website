@@ -1,8 +1,14 @@
 {
- "updated": 1794177323,
+ "updated": 1794179140,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMGVPJ",
+   "name": "NeeDoh Jelly Squish",
+   "group": "needoh",
+   "at": 1794166618
+  },
   {
    "asin": "B0GFXY3M2N",
    "name": "Clickeez Care Bears 3-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1794097316
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794096885
   }
  ]
 }
