@@ -1,8 +1,14 @@
 {
- "updated": 1794143229,
+ "updated": 1794147456,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794136636
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Cool Cat",
    "group": "needoh",
    "at": 1794068594
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1794063843
   }
  ]
 }
