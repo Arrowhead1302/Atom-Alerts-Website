@@ -1,8 +1,32 @@
 {
- "updated": 1794159168,
+ "updated": 1794160976,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794149738
+  },
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794149128
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794149091
+  },
+  {
+   "asin": "B0C6X7XSZC",
+   "name": "NeeDoh Teenie Funky Pups 3pk",
+   "group": "needoh",
+   "at": 1794148853
+  },
   {
    "asin": "B0F2BCG1Y5",
    "name": "Destined Rivals Booster Bundle",
@@ -338,30 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794076295
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794074820
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1794073892
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794071427
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794070969
   }
  ]
 }
