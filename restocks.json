@@ -1,8 +1,20 @@
 {
- "updated": 1794102848,
+ "updated": 1794104655,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1794093169
+  },
+  {
+   "asin": "B0H72DC5YT",
+   "name": "NeeDoh Blue Green",
+   "group": "needoh",
+   "at": 1794092702
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -350,18 +362,6 @@
    "name": "Series 3 Keyboard Mega",
    "group": "Clickeez",
    "at": 1794018753
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1794016748
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1794013381
   }
  ]
 }
