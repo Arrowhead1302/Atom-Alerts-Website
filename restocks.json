@@ -1,8 +1,14 @@
 {
- "updated": 1794175507,
+ "updated": 1794177323,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794166026
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794096885
-  },
-  {
-   "asin": "B0DV49SQ71",
-   "name": "NeeDoh SplootSplat -The Splat That Sploots",
-   "group": "needoh",
-   "at": 1794096664
   }
  ]
 }
