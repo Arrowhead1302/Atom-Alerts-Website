@@ -1,8 +1,14 @@
 {
- "updated": 1794164610,
+ "updated": 1794166431,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794155065
+  },
   {
    "asin": "B0BQZDQN6Q",
    "name": "NeeDoh Super Cool Cat",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1794080204
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794078689
   }
  ]
 }
