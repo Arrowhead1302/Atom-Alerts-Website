@@ -1,8 +1,14 @@
 {
- "updated": 1794139609,
+ "updated": 1794141422,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H72DC5YT",
+   "name": "NeeDoh Blue Green",
+   "group": "needoh",
+   "at": 1794129060
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Rainboh Teenie",
    "group": "needoh",
    "at": 1794061395
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1794059825
   }
  ]
 }
