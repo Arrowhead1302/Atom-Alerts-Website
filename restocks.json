@@ -1,8 +1,44 @@
 {
- "updated": 1794137794,
+ "updated": 1794139609,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1794127638
+  },
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794127460
+  },
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794127229
+  },
+  {
+   "asin": "B0BQZDQN6Q",
+   "name": "NeeDoh Super Cool Cat",
+   "group": "needoh",
+   "at": 1794127058
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794127032
+  },
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1794127009
+  },
   {
    "asin": "B0C6X7XSZC",
    "name": "NeeDoh Teenie Funky Pups 3pk",
@@ -326,42 +362,6 @@
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
    "group": "Pokemon",
    "at": 1794059825
-  },
-  {
-   "asin": "B0G2TKXBYB",
-   "name": "151 Mini Tin 2",
-   "group": "Pokemon",
-   "at": 1794058092
-  },
-  {
-   "asin": "B0DXRKN7KY",
-   "name": "NeeDoh Teenie 10-Pack",
-   "group": "needoh",
-   "at": 1794058065
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1794058017
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1794057855
-  },
-  {
-   "asin": "B0FQP3YQ47",
-   "name": "Q4 Pokeball Tins",
-   "group": "Pokemon",
-   "at": 1794055236
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1794054830
   }
  ]
 }
