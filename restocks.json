@@ -1,8 +1,26 @@
 {
- "updated": 1794179140,
+ "updated": 1794180948,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794168884
+  },
+  {
+   "asin": "B0G3G41RG9",
+   "name": "NeeDoh Nice Ice Baby 4 Pack",
+   "group": "needoh",
+   "at": 1794168734
+  },
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1794168514
+  },
   {
    "asin": "B0G3GMGVPJ",
    "name": "NeeDoh Jelly Squish",
@@ -344,24 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1794100893
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794099824
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794098849
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1794097316
   }
  ]
 }
