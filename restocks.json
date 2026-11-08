@@ -1,8 +1,20 @@
 {
- "updated": 1794166431,
+ "updated": 1794168243,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794157051
+  },
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1794156122
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794080954
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794080549
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1794080204
   }
  ]
 }
