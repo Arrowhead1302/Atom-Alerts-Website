@@ -1,8 +1,20 @@
 {
- "updated": 1794131527,
+ "updated": 1794133337,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BCCHV",
+   "name": "NeeDoh Mello Mallo",
+   "group": "needoh",
+   "at": 1794122173
+  },
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794121281
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794054397
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794054352
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794053901
   }
  ]
 }
