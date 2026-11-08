@@ -1,8 +1,26 @@
 {
- "updated": 1794129717,
+ "updated": 1794131527,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1794119952
+  },
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1794119795
+  },
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1794119711
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -344,24 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1794053901
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1794052100
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794051755
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794050233
   }
  ]
 }
