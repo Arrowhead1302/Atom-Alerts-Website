@@ -1,8 +1,14 @@
 {
- "updated": 1794160976,
+ "updated": 1794162791,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794151596
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794077185
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794076295
   }
  ]
 }
