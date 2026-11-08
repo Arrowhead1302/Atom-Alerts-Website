@@ -1,8 +1,26 @@
 {
- "updated": 1794106463,
+ "updated": 1794108272,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794097316
+  },
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794096885
+  },
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1794096664
+  },
   {
    "asin": "B0H728GKDS",
    "name": "NeeDoh Pink Purple",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1794022807
-  },
-  {
-   "asin": "B0BQZFVJTB",
-   "name": "NeeDoh Nice Cube - Pack of 1",
-   "group": "needoh",
-   "at": 1794022396
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794022338
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1794021593
   }
  ]
 }
