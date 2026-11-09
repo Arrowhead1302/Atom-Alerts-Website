@@ -1,8 +1,14 @@
 {
- "updated": 1794187714,
+ "updated": 1794189529,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0F2BCG1Y5",
+   "name": "Destined Rivals Booster Bundle",
+   "group": "Pokemon",
+   "at": 1794177434
+  },
   {
    "asin": "B0D9ZVQKTN",
    "name": "NeeDoh Sugar Skull Cool Cats",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794104522
-  },
-  {
-   "asin": "B0BQZDQN6Q",
-   "name": "NeeDoh Super Cool Cat",
-   "group": "needoh",
-   "at": 1794104232
   }
  ]
 }
