@@ -1,8 +1,14 @@
 {
- "updated": 1794182759,
+ "updated": 1794185892,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGLD4TW",
+   "name": "Series 3 Keyboard Mega",
+   "group": "Clickeez",
+   "at": 1794175071
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1794104051
-  },
-  {
-   "asin": "B0B2HN96TZ",
-   "name": "NeeDoh Gummy Bear (Assorted)",
-   "group": "needoh",
-   "at": 1794103739
   }
  ]
 }
