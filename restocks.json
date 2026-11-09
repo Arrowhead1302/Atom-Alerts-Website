@@ -1,8 +1,14 @@
 {
- "updated": 1794233279,
+ "updated": 1794235582,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1794224684
+  },
   {
    "asin": "B0FH7PXPKK",
    "name": "NeeDoh Groovy Glob Pink",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794144248
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1794143798
   }
  ]
 }
