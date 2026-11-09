@@ -1,8 +1,14 @@
 {
- "updated": 1794265915,
+ "updated": 1794267720,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794256241
+  },
   {
    "asin": "B0GR6M4JV3",
    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794175342
-  },
-  {
-   "asin": "B0GFGLD4TW",
-   "name": "Series 3 Keyboard Mega",
-   "group": "Clickeez",
-   "at": 1794175071
   }
  ]
 }
