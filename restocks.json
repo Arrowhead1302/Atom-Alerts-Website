@@ -1,8 +1,14 @@
 {
- "updated": 1794215344,
+ "updated": 1794223200,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794212345
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Pink Purple",
    "group": "needoh",
    "at": 1794137394
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1794136636
   }
  ]
 }
