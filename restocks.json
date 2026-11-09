@@ -1,8 +1,20 @@
 {
- "updated": 1794225032,
+ "updated": 1794226862,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GPY41JGK",
+   "name": "NeeDoh Squishmas Advent Calendar",
+   "group": "needoh",
+   "at": 1794215224
+  },
+  {
+   "asin": "B0HNTQRBSL",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
+   "group": "RMS Squishy",
+   "at": 1794214827
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Nice Ice Baby 4 Pack",
    "group": "needoh",
    "at": 1794143695
-  },
-  {
-   "asin": "B0G3GMGVPJ",
-   "name": "NeeDoh Jelly Squish",
-   "group": "needoh",
-   "at": 1794143285
-  },
-  {
-   "asin": "B0G3GJJHHK",
-   "name": "NeeDoh Super Fuzzball",
-   "group": "needoh",
-   "at": 1794143056
   }
  ]
 }
