@@ -1,8 +1,14 @@
 {
- "updated": 1794202251,
+ "updated": 1794204063,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794193076
+  },
   {
    "asin": "B0G3G41RG9",
    "name": "NeeDoh Nice Ice Baby 4 Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794122173
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794121281
   }
  ]
 }
