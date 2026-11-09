@@ -1,8 +1,20 @@
 {
- "updated": 1794205872,
+ "updated": 1794207692,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1794195599
+  },
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1794195508
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794127032
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794127009
-  },
-  {
-   "asin": "B0C6X7XSZC",
-   "name": "NeeDoh Teenie Funky Pups 3pk",
-   "group": "needoh",
-   "at": 1794126990
   }
  ]
 }
