@@ -1,8 +1,14 @@
 {
- "updated": 1794200433,
+ "updated": 1794202251,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3G41RG9",
+   "name": "NeeDoh Nice Ice Baby 4 Pack",
+   "group": "needoh",
+   "at": 1794191300
+  },
   {
    "asin": "B0G3GMGVPJ",
    "name": "NeeDoh Jelly Squish",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794121281
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794119952
   }
  ]
 }
