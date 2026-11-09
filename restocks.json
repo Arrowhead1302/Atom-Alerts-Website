@@ -1,8 +1,14 @@
 {
- "updated": 1794226862,
+ "updated": 1794233279,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0FH7PXPKK",
+   "name": "NeeDoh Groovy Glob Pink",
+   "group": "needoh",
+   "at": 1794222398
+  },
   {
    "asin": "B0GPY41JGK",
    "name": "NeeDoh Squishmas Advent Calendar",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1794143798
-  },
-  {
-   "asin": "B0G3G41RG9",
-   "name": "NeeDoh Nice Ice Baby 4 Pack",
-   "group": "needoh",
-   "at": 1794143695
   }
  ]
 }
