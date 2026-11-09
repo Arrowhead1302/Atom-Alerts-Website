@@ -1,8 +1,14 @@
 {
- "updated": 1794246505,
+ "updated": 1794248584,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794237692
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
    "group": "needoh",
    "at": 1794159126
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794158459
   }
  ]
 }
