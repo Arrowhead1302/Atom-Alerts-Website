@@ -1,8 +1,14 @@
 {
- "updated": 1794250388,
+ "updated": 1794252194,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1794239733
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Pink Purple",
    "group": "needoh",
    "at": 1794160252
-  },
-  {
-   "asin": "B0B2HN96TZ",
-   "name": "NeeDoh Gummy Bear (Assorted)",
-   "group": "needoh",
-   "at": 1794159874
   }
  ]
 }
