@@ -1,8 +1,14 @@
 {
- "updated": 1794259773,
+ "updated": 1794262300,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794251384
+  },
   {
    "asin": "B0DV49SQ71",
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Jelly Squish",
    "group": "needoh",
    "at": 1794166618
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794166026
   }
  ]
 }
