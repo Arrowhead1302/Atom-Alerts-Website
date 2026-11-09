@@ -1,8 +1,14 @@
 {
- "updated": 1794185892,
+ "updated": 1794187714,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794175342
+  },
   {
    "asin": "B0GFGLD4TW",
    "name": "Series 3 Keyboard Mega",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Cool Cat",
    "group": "needoh",
    "at": 1794104232
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794104051
   }
  ]
 }
