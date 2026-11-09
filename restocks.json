@@ -1,8 +1,14 @@
 {
- "updated": 1794248584,
+ "updated": 1794250388,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794239367
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794159874
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1794159126
   }
  ]
 }
