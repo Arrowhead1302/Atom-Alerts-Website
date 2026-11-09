@@ -1,8 +1,20 @@
 {
- "updated": 1794198618,
+ "updated": 1794200433,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMGVPJ",
+   "name": "NeeDoh Jelly Squish",
+   "group": "needoh",
+   "at": 1794188495
+  },
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794187925
+  },
   {
    "asin": "B0FH7NNQWQ",
    "name": "NeeDoh Groovy Glob Orange",
@@ -350,18 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1794119952
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1794119795
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1794119711
   }
  ]
 }
