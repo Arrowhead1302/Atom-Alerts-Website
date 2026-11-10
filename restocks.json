@@ -1,8 +1,14 @@
 {
- "updated": 1794307011,
+ "updated": 1794308944,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794298049
+  },
   {
    "asin": "B0DV49SQ71",
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Brand Original Super",
    "group": "needoh",
    "at": 1794199425
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794198754
   }
  ]
 }
