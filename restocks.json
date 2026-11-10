@@ -1,8 +1,14 @@
 {
- "updated": 1794294467,
+ "updated": 1794299410,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GPY1XRKP",
+   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
+   "group": "needoh",
+   "at": 1794288527
+  },
   {
    "asin": "B07KRL5KF8",
    "name": "NeeDoh Brand Original Super",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1794195599
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794195508
   }
  ]
 }
