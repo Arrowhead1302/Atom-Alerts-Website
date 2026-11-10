@@ -1,8 +1,14 @@
 {
- "updated": 1794333913,
+ "updated": 1794335718,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794323779
+  },
   {
    "asin": "B0DV49SQ71",
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794230610
-  },
-  {
-   "asin": "B0F2BCG1Y5",
-   "name": "Destined Rivals Booster Bundle",
-   "group": "Pokemon",
-   "at": 1794229552
   }
  ]
 }
