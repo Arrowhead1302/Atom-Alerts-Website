@@ -1,8 +1,32 @@
 {
- "updated": 1794292655,
+ "updated": 1794294467,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B07KRL5KF8",
+   "name": "NeeDoh Brand Original Super",
+   "group": "needoh",
+   "at": 1794283157
+  },
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794282984
+  },
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1794282714
+  },
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1794282137
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -338,30 +362,6 @@
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
    "group": "needoh",
    "at": 1794195508
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794193926
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794193076
-  },
-  {
-   "asin": "B0G3G41RG9",
-   "name": "NeeDoh Nice Ice Baby 4 Pack",
-   "group": "needoh",
-   "at": 1794191300
-  },
-  {
-   "asin": "B0G3GMGVPJ",
-   "name": "NeeDoh Jelly Squish",
-   "group": "needoh",
-   "at": 1794188495
   }
  ]
 }
