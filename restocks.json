@@ -1,8 +1,20 @@
 {
- "updated": 1794287710,
+ "updated": 1794289520,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794278613
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794278284
+  },
   {
    "asin": "B0BQZDQN6Q",
    "name": "NeeDoh Super Cool Cat",
@@ -350,18 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794187925
-  },
-  {
-   "asin": "B0FH7NNQWQ",
-   "name": "NeeDoh Groovy Glob Orange",
-   "group": "needoh",
-   "at": 1794186890
-  },
-  {
-   "asin": "B0GPY41JGK",
-   "name": "NeeDoh Squishmas Advent Calendar",
-   "group": "needoh",
-   "at": 1794186752
   }
  ]
 }
