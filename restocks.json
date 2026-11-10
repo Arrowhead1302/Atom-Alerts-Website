@@ -1,8 +1,14 @@
 {
- "updated": 1794275662,
+ "updated": 1794280478,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794269663
+  },
   {
    "asin": "B0BQZFVJTB",
    "name": "NeeDoh Nice Cube - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube - Pack of 1",
    "group": "needoh",
    "at": 1794181253
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794180083
   }
  ]
 }
