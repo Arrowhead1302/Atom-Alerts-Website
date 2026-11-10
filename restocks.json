@@ -1,8 +1,20 @@
 {
- "updated": 1794350774,
+ "updated": 1794352667,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794341721
+  },
+  {
+   "asin": "B0D6D6TPQL",
+   "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
+   "group": "needoh",
+   "at": 1794341500
+  },
   {
    "asin": "B0D9ZVQKTN",
    "name": "NeeDoh Sugar Skull Cool Cats",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Multi Color",
    "group": "needoh",
    "at": 1794253717
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794252356
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794251384
   }
  ]
 }
