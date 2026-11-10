@@ -1,8 +1,14 @@
 {
- "updated": 1794310756,
+ "updated": 1794312565,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794301728
+  },
   {
    "asin": "B0D6CVLBJZ",
    "name": "NeeDoh Teenie (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794202260
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794201671
   }
  ]
 }
