@@ -1,8 +1,26 @@
 {
- "updated": 1794341740,
+ "updated": 1794343545,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H728GKDS",
+   "name": "NeeDoh Pink Purple",
+   "group": "needoh",
+   "at": 1794331266
+  },
+  {
+   "asin": "B0H72DC5YT",
+   "name": "NeeDoh Blue Green",
+   "group": "needoh",
+   "at": 1794331195
+  },
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1794331077
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Teenie Fuzz Ball 3pk",
    "group": "needoh",
    "at": 1794247049
-  },
-  {
-   "asin": "B0D6D6TPQL",
-   "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
-   "group": "needoh",
-   "at": 1794245067
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1794239733
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794239367
   }
  ]
 }
