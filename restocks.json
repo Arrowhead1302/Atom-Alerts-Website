@@ -1,8 +1,14 @@
 {
- "updated": 1794324297,
+ "updated": 1794328398,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1794317565
+  },
   {
    "asin": "B0G3G41RG9",
    "name": "NeeDoh Nice Ice Baby 4 Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Groovy Glob Pink",
    "group": "needoh",
    "at": 1794222398
-  },
-  {
-   "asin": "B0GPY41JGK",
-   "name": "NeeDoh Squishmas Advent Calendar",
-   "group": "needoh",
-   "at": 1794215224
   }
  ]
 }
