@@ -1,8 +1,14 @@
 {
- "updated": 1794320664,
+ "updated": 1794322481,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1794310340
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
    "group": "RMS Squishy",
    "at": 1794214827
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1794212928
   }
  ]
 }
