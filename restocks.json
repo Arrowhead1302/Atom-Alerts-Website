@@ -1,8 +1,14 @@
 {
- "updated": 1794267720,
+ "updated": 1794271929,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794261089
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -356,12 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1794177434
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794175342
   }
  ]
 }
