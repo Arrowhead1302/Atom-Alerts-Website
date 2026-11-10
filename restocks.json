@@ -1,8 +1,14 @@
 {
- "updated": 1794332025,
+ "updated": 1794333913,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV49SQ71",
+   "name": "NeeDoh SplootSplat -The Splat That Sploots",
+   "group": "needoh",
+   "at": 1794321663
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "Destined Rivals Booster Bundle",
    "group": "Pokemon",
    "at": 1794229552
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1794228592
   }
  ]
 }
