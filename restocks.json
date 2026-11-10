@@ -1,8 +1,14 @@
 {
- "updated": 1794308944,
+ "updated": 1794310756,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D6CVLBJZ",
+   "name": "NeeDoh Teenie (Assorted)",
+   "group": "needoh",
+   "at": 1794299143
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "Needoh Panic Pete",
    "group": "needoh",
    "at": 1794201671
-  },
-  {
-   "asin": "B07KRL5KF8",
-   "name": "NeeDoh Brand Original Super",
-   "group": "needoh",
-   "at": 1794199425
   }
  ]
 }
