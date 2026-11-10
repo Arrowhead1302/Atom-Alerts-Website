@@ -1,8 +1,14 @@
 {
- "updated": 1794317036,
+ "updated": 1794318850,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0FH7PXPKK",
+   "name": "NeeDoh Groovy Glob Pink",
+   "group": "needoh",
+   "at": 1794306399
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794212792
-  },
-  {
-   "asin": "B0G3GCVSV7",
-   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
-   "group": "needoh",
-   "at": 1794212345
   }
  ]
 }
