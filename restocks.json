@@ -1,8 +1,14 @@
 {
- "updated": 1794282284,
+ "updated": 1794284095,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D6CVLBJZ",
+   "name": "NeeDoh Teenie (Assorted)",
+   "group": "needoh",
+   "at": 1794273064
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Multi Color",
    "group": "needoh",
    "at": 1794182640
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794181578
   }
  ]
 }
