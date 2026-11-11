@@ -1,8 +1,20 @@
 {
- "updated": 1794363827,
+ "updated": 1794365634,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794354149
+  },
+  {
+   "asin": "B0H728GKDS",
+   "name": "NeeDoh Pink Purple",
+   "group": "needoh",
+   "at": 1794353048
+  },
   {
    "asin": "B0DV49SQ71",
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
    "group": "needoh",
    "at": 1794262423
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794261590
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1794261089
   }
  ]
 }
