@@ -1,8 +1,14 @@
 {
- "updated": 1794379491,
+ "updated": 1794381298,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794370132
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1794278284
-  },
-  {
-   "asin": "B0BQZDQN6Q",
-   "name": "NeeDoh Super Cool Cat",
-   "group": "needoh",
-   "at": 1794276746
   }
  ]
 }
