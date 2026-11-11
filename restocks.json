@@ -1,8 +1,20 @@
 {
- "updated": 1794401793,
+ "updated": 1794403604,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTQRBSL",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
+   "group": "RMS Squishy",
+   "at": 1794392756
+  },
+  {
+   "asin": "B0GJCTYLC6",
+   "name": "Candy Swirl Nice Cube",
+   "group": "needoh",
+   "at": 1794392023
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
    "group": "needoh",
    "at": 1794301728
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie (Assorted)",
-   "group": "needoh",
-   "at": 1794299143
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794298049
   }
  ]
 }
