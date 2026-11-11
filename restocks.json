@@ -1,8 +1,14 @@
 {
- "updated": 1794423992,
+ "updated": 1794425803,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794413493
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Fuzzball",
    "group": "needoh",
    "at": 1794318536
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794317565
   }
  ]
 }
