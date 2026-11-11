@@ -1,8 +1,14 @@
 {
- "updated": 1794429913,
+ "updated": 1794431723,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKQ7S84",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
+   "group": "RMS Squishy",
+   "at": 1794420680
+  },
   {
    "asin": "B0H72DC5YT",
    "name": "NeeDoh Blue Green",
@@ -356,12 +362,6 @@
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
    "group": "needoh",
    "at": 1794321663
-  },
-  {
-   "asin": "B0HNTP8CQF",
-   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
-   "group": "RMS Squishy",
-   "at": 1794319879
   }
  ]
 }
