@@ -1,8 +1,20 @@
 {
- "updated": 1794392384,
+ "updated": 1794394196,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1794382763
+  },
+  {
+   "asin": "B0H72DC5YT",
+   "name": "NeeDoh Blue Green",
+   "group": "needoh",
+   "at": 1794382228
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -350,18 +362,6 @@
    "name": "Series 3 Keyboard Mega",
    "group": "Clickeez",
    "at": 1794289922
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1794288527
-  },
-  {
-   "asin": "B07KRL5KF8",
-   "name": "NeeDoh Brand Original Super",
-   "group": "needoh",
-   "at": 1794283157
   }
  ]
 }
