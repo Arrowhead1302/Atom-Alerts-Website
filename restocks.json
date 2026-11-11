@@ -1,8 +1,14 @@
 {
- "updated": 1794415423,
+ "updated": 1794422177,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794411288
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube Glow (Assorted)",
    "group": "needoh",
    "at": 1794310340
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794308742
   }
  ]
 }
