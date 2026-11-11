@@ -1,8 +1,14 @@
 {
- "updated": 1794356525,
+ "updated": 1794358349,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1794345832
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby 4 Pack",
    "group": "needoh",
    "at": 1794254610
-  },
-  {
-   "asin": "B0BQZDQN6Q",
-   "name": "NeeDoh Super Cool Cat",
-   "group": "needoh",
-   "at": 1794254557
   }
  ]
 }
