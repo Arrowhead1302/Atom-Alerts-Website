@@ -1,8 +1,14 @@
 {
- "updated": 1794360154,
+ "updated": 1794361960,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H2JVZYZZ",
+   "name": "First Partner Illustration Collection - Series 3",
+   "group": "Pokemon",
+   "at": 1794350715
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
    "group": "needoh",
    "at": 1794256241
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1794255114
   }
  ]
 }
