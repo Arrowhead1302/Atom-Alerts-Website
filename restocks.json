@@ -1,8 +1,14 @@
 {
- "updated": 1794431723,
+ "updated": 1794433665,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BCCHV",
+   "name": "NeeDoh Mello Mallo",
+   "group": "needoh",
+   "at": 1794422759
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
    "group": "needoh",
    "at": 1794323779
-  },
-  {
-   "asin": "B0DV49SQ71",
-   "name": "NeeDoh SplootSplat -The Splat That Sploots",
-   "group": "needoh",
-   "at": 1794321663
   }
  ]
 }
