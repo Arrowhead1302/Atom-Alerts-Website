@@ -1,8 +1,20 @@
 {
- "updated": 1794405422,
+ "updated": 1794409638,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKQ7S84",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
+   "group": "RMS Squishy",
+   "at": 1794398780
+  },
+  {
+   "asin": "B0HH8WK4M9",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
+   "group": "RMS Squishy",
+   "at": 1794398772
+  },
   {
    "asin": "B0HNTLMB9M",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Groovy Glob Pink",
    "group": "needoh",
    "at": 1794306399
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794306181
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794303149
   }
  ]
 }
