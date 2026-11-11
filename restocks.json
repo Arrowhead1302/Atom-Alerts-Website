@@ -1,8 +1,20 @@
 {
- "updated": 1794383106,
+ "updated": 1794384919,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794373287
+  },
+  {
+   "asin": "B0D6CVLBJZ",
+   "name": "NeeDoh Teenie (Assorted)",
+   "group": "needoh",
+   "at": 1794372899
+  },
   {
    "asin": "B0DLPL7LC5",
    "name": "Prismatic Evolutions Elite Trainer Box",
@@ -350,18 +362,6 @@
    "name": "30th Celebration Ultra Premium Collection",
    "group": "Pokemon",
    "at": 1794282984
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1794282714
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794282137
   }
  ]
 }
