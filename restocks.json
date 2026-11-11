@@ -1,8 +1,14 @@
 {
- "updated": 1794367440,
+ "updated": 1794369247,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1794357973
+  },
   {
    "asin": "B0BQZFVJTB",
    "name": "NeeDoh Nice Cube - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794269663
-  },
-  {
-   "asin": "B0BQZFVJTB",
-   "name": "NeeDoh Nice Cube - Pack of 1",
-   "group": "needoh",
-   "at": 1794264784
   }
  ]
 }
