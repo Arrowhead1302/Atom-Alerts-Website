@@ -1,8 +1,14 @@
 {
- "updated": 1794365634,
+ "updated": 1794367440,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1794355397
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube - Pack of 1",
    "group": "needoh",
    "at": 1794264784
-  },
-  {
-   "asin": "B0GPY1XRKP",
-   "name": "NeeDoh Funky Frights Squish-O-Ween Countdown (B0GPY1XRKP)",
-   "group": "needoh",
-   "at": 1794262423
   }
  ]
 }
