@@ -1,8 +1,14 @@
 {
- "updated": 1794377681,
+ "updated": 1794379491,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1794367433
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Super Cool Cat",
    "group": "needoh",
    "at": 1794276746
-  },
-  {
-   "asin": "B0B2HN96TZ",
-   "name": "NeeDoh Gummy Bear (Assorted)",
-   "group": "needoh",
-   "at": 1794275018
   }
  ]
 }
