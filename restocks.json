@@ -1,8 +1,14 @@
 {
- "updated": 1794492531,
+ "updated": 1794494355,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1794482465
+  },
   {
    "asin": "B0H72DC5YT",
    "name": "NeeDoh Blue Green",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794366871
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794363204
   }
  ]
 }
