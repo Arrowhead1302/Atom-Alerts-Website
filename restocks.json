@@ -1,8 +1,14 @@
 {
- "updated": 1794508815,
+ "updated": 1794510636,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794499374
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -356,12 +362,6 @@
    "name": "Needoh Panic Pete",
    "group": "needoh",
    "at": 1794373287
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie (Assorted)",
-   "group": "needoh",
-   "at": 1794372899
   }
  ]
 }
