@@ -1,8 +1,32 @@
 {
- "updated": 1794510636,
+ "updated": 1794512455,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GGVJD5",
+   "name": "NeeDoh Nice-Sicle",
+   "group": "needoh",
+   "at": 1794500588
+  },
+  {
+   "asin": "B0D6D6TPQL",
+   "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
+   "group": "needoh",
+   "at": 1794500566
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794500443
+  },
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear (Assorted)",
+   "group": "needoh",
+   "at": 1794500291
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -338,30 +362,6 @@
    "name": "30th Celebration Ultra Premium Collection",
    "group": "Pokemon",
    "at": 1794384650
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794382763
-  },
-  {
-   "asin": "B0H72DC5YT",
-   "name": "NeeDoh Blue Green",
-   "group": "needoh",
-   "at": 1794382228
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794381478
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794373287
   }
  ]
 }
