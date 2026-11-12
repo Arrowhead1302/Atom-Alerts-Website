@@ -1,8 +1,14 @@
 {
- "updated": 1794446504,
+ "updated": 1794448329,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HH8WK4M9",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
+   "group": "RMS Squishy",
+   "at": 1794435803
+  },
   {
    "asin": "B0G3GGVJD5",
    "name": "NeeDoh Nice-Sicle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie (Assorted)",
    "group": "needoh",
    "at": 1794334242
-  },
-  {
-   "asin": "B0H728GKDS",
-   "name": "NeeDoh Pink Purple",
-   "group": "needoh",
-   "at": 1794331266
   }
  ]
 }
