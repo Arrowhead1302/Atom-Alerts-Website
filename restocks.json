@@ -1,8 +1,14 @@
 {
- "updated": 1794450143,
+ "updated": 1794462715,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794451874
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794337245
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794334799
   }
  ]
 }
