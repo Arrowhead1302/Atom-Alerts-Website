@@ -1,8 +1,14 @@
 {
- "updated": 1794486236,
+ "updated": 1794488054,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794475838
+  },
   {
    "asin": "B0D9ZVQKTN",
    "name": "NeeDoh Sugar Skull Cool Cats",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cube - Pack of 1",
    "group": "needoh",
    "at": 1794355397
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794354149
   }
  ]
 }
