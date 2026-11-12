@@ -1,8 +1,14 @@
 {
- "updated": 1794518576,
+ "updated": 1794520428,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1794508944
+  },
   {
    "asin": "B0H2JVZYZZ",
    "name": "First Partner Illustration Collection - Series 3",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTQRBSL)",
    "group": "RMS Squishy",
    "at": 1794392756
-  },
-  {
-   "asin": "B0GJCTYLC6",
-   "name": "Candy Swirl Nice Cube",
-   "group": "needoh",
-   "at": 1794392023
   }
  ]
 }
