@@ -1,8 +1,14 @@
 {
- "updated": 1794464535,
+ "updated": 1794467077,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GGVJD5",
+   "name": "NeeDoh Nice-Sicle",
+   "group": "needoh",
+   "at": 1794456260
+  },
   {
    "asin": "B0D9ZVQKTN",
    "name": "NeeDoh Sugar Skull Cool Cats",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
    "group": "needoh",
    "at": 1794341500
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794338877
   }
  ]
 }
