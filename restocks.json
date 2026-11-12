@@ -1,8 +1,14 @@
 {
- "updated": 1794505408,
+ "updated": 1794508815,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794497925
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie (Assorted)",
    "group": "needoh",
    "at": 1794372899
-  },
-  {
-   "asin": "B0DLPL7LC5",
-   "name": "Prismatic Evolutions Elite Trainer Box",
-   "group": "Pokemon",
-   "at": 1794371969
   }
  ]
 }
