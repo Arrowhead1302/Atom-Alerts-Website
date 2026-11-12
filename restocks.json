@@ -1,8 +1,14 @@
 {
- "updated": 1794512455,
+ "updated": 1794514361,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794502889
+  },
   {
    "asin": "B0G3GGVJD5",
    "name": "NeeDoh Nice-Sicle",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gumdrop - Pack of 1",
    "group": "needoh",
    "at": 1794389106
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1794384650
   }
  ]
 }
