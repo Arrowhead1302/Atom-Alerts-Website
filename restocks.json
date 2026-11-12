@@ -1,8 +1,14 @@
 {
- "updated": 1794470730,
+ "updated": 1794480649,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794469741
+  },
   {
    "asin": "B0G3G41RG9",
    "name": "NeeDoh Nice Ice Baby 4 Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
    "group": "needoh",
    "at": 1794352871
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794350715
   }
  ]
 }
