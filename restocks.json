@@ -1,8 +1,20 @@
 {
- "updated": 1794440562,
+ "updated": 1794442372,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMGVPJ",
+   "name": "NeeDoh Jelly Squish",
+   "group": "needoh",
+   "at": 1794431180
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794431056
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -350,18 +362,6 @@
    "name": "Prismatic Evolutions Elite Trainer Box",
    "group": "Pokemon",
    "at": 1794328486
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794328027
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794327805
   }
  ]
 }
