@@ -1,8 +1,14 @@
 {
- "updated": 1794448329,
+ "updated": 1794450143,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FDBNSB",
+   "name": "30th Celebration Knockout Collection",
+   "group": "Pokemon",
+   "at": 1794437643
+  },
   {
    "asin": "B0HH8WK4M9",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794334799
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie (Assorted)",
-   "group": "needoh",
-   "at": 1794334242
   }
  ]
 }
