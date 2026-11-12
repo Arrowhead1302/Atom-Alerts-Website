@@ -1,8 +1,14 @@
 {
- "updated": 1794483321,
+ "updated": 1794486236,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794475409
+  },
   {
    "asin": "B0HH8WK4M9",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794354149
-  },
-  {
-   "asin": "B0H728GKDS",
-   "name": "NeeDoh Pink Purple",
-   "group": "needoh",
-   "at": 1794353048
   }
  ]
 }
