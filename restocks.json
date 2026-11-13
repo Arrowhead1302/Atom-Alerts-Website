@@ -1,8 +1,14 @@
 {
- "updated": 1794545530,
+ "updated": 1794548134,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D6CVLBJZ",
+   "name": "NeeDoh Teenie (Assorted)",
+   "group": "needoh",
+   "at": 1794537291
+  },
   {
    "asin": "B0G3G41RG9",
    "name": "NeeDoh Nice Ice Baby 4 Pack",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794412529
-  },
-  {
-   "asin": "B0G3G41RG9",
-   "name": "NeeDoh Nice Ice Baby 4 Pack",
-   "group": "needoh",
-   "at": 1794411856
   }
  ]
 }
