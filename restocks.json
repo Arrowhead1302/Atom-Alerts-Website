@@ -1,8 +1,14 @@
 {
- "updated": 1794586646,
+ "updated": 1794589297,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794578475
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794452851
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1794451874
   }
  ]
 }
