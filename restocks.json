@@ -1,8 +1,20 @@
 {
- "updated": 1794578930,
+ "updated": 1794580739,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GGVJD5",
+   "name": "NeeDoh Nice-Sicle",
+   "group": "needoh",
+   "at": 1794569786
+  },
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1794569070
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie (Assorted)",
    "group": "needoh",
    "at": 1794433812
-  },
-  {
-   "asin": "B0G3GMGVPJ",
-   "name": "NeeDoh Jelly Squish",
-   "group": "needoh",
-   "at": 1794431180
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794431056
   }
  ]
 }
