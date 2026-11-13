@@ -1,8 +1,14 @@
 {
- "updated": 1794606638,
+ "updated": 1794608563,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794597730
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Blue Green",
    "group": "needoh",
    "at": 1794481667
-  },
-  {
-   "asin": "B0G3GGVJD5",
-   "name": "NeeDoh Nice-Sicle",
-   "group": "needoh",
-   "at": 1794478324
   }
  ]
 }
