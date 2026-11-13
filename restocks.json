@@ -1,8 +1,14 @@
 {
- "updated": 1794603024,
+ "updated": 1794604830,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GJJHHK",
+   "name": "NeeDoh Super Fuzzball",
+   "group": "needoh",
+   "at": 1794592587
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Ultra Premium Collection",
    "group": "Pokemon",
    "at": 1794477442
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1794475838
   }
  ]
 }
