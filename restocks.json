@@ -1,8 +1,14 @@
 {
- "updated": 1794592919,
+ "updated": 1794595691,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DVM1D94C",
+   "name": "Clickeez 5-Pack",
+   "group": "Clickeez",
+   "at": 1794584798
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794457454
-  },
-  {
-   "asin": "B0DLPL7LC5",
-   "name": "Prismatic Evolutions Elite Trainer Box",
-   "group": "Pokemon",
-   "at": 1794457442
   }
  ]
 }
