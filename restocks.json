@@ -1,8 +1,20 @@
 {
- "updated": 1794591106,
+ "updated": 1794592919,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTP8CQF",
+   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
+   "group": "RMS Squishy",
+   "at": 1794580743
+  },
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794580668
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -350,18 +362,6 @@
    "name": "Prismatic Evolutions Elite Trainer Box",
    "group": "Pokemon",
    "at": 1794457442
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794456765
-  },
-  {
-   "asin": "B0G3GGVJD5",
-   "name": "NeeDoh Nice-Sicle",
-   "group": "needoh",
-   "at": 1794456260
   }
  ]
 }
