@@ -1,8 +1,20 @@
 {
- "updated": 1794599414,
+ "updated": 1794601220,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKQ7S84",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
+   "group": "RMS Squishy",
+   "at": 1794590184
+  },
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1794589726
+  },
   {
    "asin": "B0G3GN6Q72",
    "name": "NeeDoh Nice Cream Cone",
@@ -350,18 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
    "group": "RMS Squishy",
    "at": 1794472471
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1794469741
-  },
-  {
-   "asin": "B0G3G41RG9",
-   "name": "NeeDoh Nice Ice Baby 4 Pack",
-   "group": "needoh",
-   "at": 1794459228
   }
  ]
 }
