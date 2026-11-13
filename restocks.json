@@ -1,8 +1,14 @@
 {
- "updated": 1794525449,
+ "updated": 1794533377,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GGVJD5",
+   "name": "NeeDoh Nice-Sicle",
+   "group": "needoh",
+   "at": 1794522486
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HH8WK4M9)",
    "group": "RMS Squishy",
    "at": 1794398772
-  },
-  {
-   "asin": "B0HNTLMB9M",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
-   "group": "RMS Squishy",
-   "at": 1794393270
   }
  ]
 }
