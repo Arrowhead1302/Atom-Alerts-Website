@@ -1,8 +1,14 @@
 {
- "updated": 1794608563,
+ "updated": 1794611210,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794600324
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794482465
-  },
-  {
-   "asin": "B0H72DC5YT",
-   "name": "NeeDoh Blue Green",
-   "group": "needoh",
-   "at": 1794481667
   }
  ]
 }
