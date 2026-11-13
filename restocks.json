@@ -1,8 +1,20 @@
 {
- "updated": 1794595691,
+ "updated": 1794597607,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794585346
+  },
+  {
+   "asin": "B0H7FR54KK",
+   "name": "30th Celebration Battle Deck",
+   "group": "Pokemon",
+   "at": 1794585078
+  },
   {
    "asin": "B0DVM1D94C",
    "name": "Clickeez 5-Pack",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794459135
-  },
-  {
-   "asin": "B0H72DC5YT",
-   "name": "NeeDoh Blue Green",
-   "group": "needoh",
-   "at": 1794458085
-  },
-  {
-   "asin": "B0HNTP8CQF",
-   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
-   "group": "RMS Squishy",
-   "at": 1794457454
   }
  ]
 }
