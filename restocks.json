@@ -1,8 +1,14 @@
 {
- "updated": 1794597607,
+ "updated": 1794599414,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GN6Q72",
+   "name": "NeeDoh Nice Cream Cone",
+   "group": "needoh",
+   "at": 1794587968
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby 4 Pack",
    "group": "needoh",
    "at": 1794459228
-  },
-  {
-   "asin": "B0GRSZ5TDC",
-   "name": "NeeDoh Teenie Color Change 4pk",
-   "group": "needoh",
-   "at": 1794459135
   }
  ]
 }
