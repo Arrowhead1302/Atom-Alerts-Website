@@ -1,8 +1,14 @@
 {
- "updated": 1794536986,
+ "updated": 1794538793,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794527208
+  },
   {
    "asin": "B0B2HN96TZ",
    "name": "NeeDoh Gummy Bear (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1794404553
-  },
-  {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1794398780
   }
  ]
 }
