@@ -1,8 +1,14 @@
 {
- "updated": 1794570267,
+ "updated": 1794574959,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HBKQ7S84",
+   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
+   "group": "RMS Squishy",
+   "at": 1794564149
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Multi Color",
    "group": "needoh",
    "at": 1794429300
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794429155
   }
  ]
 }
