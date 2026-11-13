@@ -1,8 +1,20 @@
 {
- "updated": 1794604830,
+ "updated": 1794606638,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794595535
+  },
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794594077
+  },
   {
    "asin": "B0G3GJJHHK",
    "name": "NeeDoh Super Fuzzball",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Nice-Sicle",
    "group": "needoh",
    "at": 1794478324
-  },
-  {
-   "asin": "B0FMJD3T8J",
-   "name": "Clickeez #11-gradient No Light",
-   "group": "Clickeez",
-   "at": 1794477996
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1794477442
   }
  ]
 }
