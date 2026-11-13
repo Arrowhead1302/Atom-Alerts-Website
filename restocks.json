@@ -1,8 +1,14 @@
 {
- "updated": 1794580739,
+ "updated": 1794583031,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794572145
+  },
   {
    "asin": "B0G3GGVJD5",
    "name": "NeeDoh Nice-Sicle",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794434215
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie (Assorted)",
-   "group": "needoh",
-   "at": 1794433812
   }
  ]
 }
