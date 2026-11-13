@@ -1,8 +1,14 @@
 {
- "updated": 1794566654,
+ "updated": 1794568460,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794556489
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -356,12 +362,6 @@
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
    "group": "needoh",
    "at": 1794427861
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794425062
   }
  ]
 }
