@@ -1,8 +1,14 @@
 {
- "updated": 1794574959,
+ "updated": 1794578930,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0B2HN96TZ",
+   "name": "NeeDoh Gummy Bear (Assorted)",
+   "group": "needoh",
+   "at": 1794568115
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794431056
-  },
-  {
-   "asin": "B076FGVCRH",
-   "name": "NeeDoh Multi Color",
-   "group": "needoh",
-   "at": 1794429300
   }
  ]
 }
