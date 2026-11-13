@@ -1,8 +1,14 @@
 {
- "updated": 1794543721,
+ "updated": 1794545530,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3G41RG9",
+   "name": "NeeDoh Nice Ice Baby 4 Pack",
+   "group": "needoh",
+   "at": 1794534212
+  },
   {
    "asin": "B0DV4BFJBY",
    "name": "NeeDoh Nice Cube Glow (Assorted)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Ice Baby 4 Pack",
    "group": "needoh",
    "at": 1794411856
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1794411288
   }
  ]
 }
