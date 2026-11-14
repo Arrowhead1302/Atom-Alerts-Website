@@ -1,8 +1,14 @@
 {
- "updated": 1794672822,
+ "updated": 1794674628,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H784PD4X",
+   "name": "30th Celebration Ultra Premium Collection",
+   "group": "Pokemon",
+   "at": 1794662044
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794559026
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1794558690
   }
  ]
 }
