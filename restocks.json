@@ -1,8 +1,20 @@
 {
- "updated": 1794633613,
+ "updated": 1794635423,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1794623393
+  },
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794622873
+  },
   {
    "asin": "B07XLDRB2S",
    "name": "NeeDoh Color Change",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Teenie Color Change 4pk",
    "group": "needoh",
    "at": 1794504347
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794502889
-  },
-  {
-   "asin": "B0G3GGVJD5",
-   "name": "NeeDoh Nice-Sicle",
-   "group": "needoh",
-   "at": 1794500588
   }
  ]
 }
