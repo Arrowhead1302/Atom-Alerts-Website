@@ -1,8 +1,14 @@
 {
- "updated": 1794665331,
+ "updated": 1794667385,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794656585
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794546749
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1794546538
   }
  ]
 }
