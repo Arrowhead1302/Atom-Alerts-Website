@@ -1,8 +1,14 @@
 {
- "updated": 1794628675,
+ "updated": 1794631446,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DXRKN7KY",
+   "name": "NeeDoh Teenie 10-Pack",
+   "group": "needoh",
+   "at": 1794620536
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
    "group": "needoh",
    "at": 1794500566
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1794500443
   }
  ]
 }
