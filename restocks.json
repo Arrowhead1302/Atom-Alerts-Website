@@ -1,8 +1,14 @@
 {
- "updated": 1794684805,
+ "updated": 1794688772,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FDBNSB",
+   "name": "30th Celebration Knockout Collection",
+   "group": "Pokemon",
+   "at": 1794677891
+  },
   {
    "asin": "B0HNTX3DCJ",
    "name": "Smushers Fruit 2 Pack",
@@ -356,12 +362,6 @@
    "name": "Smushers Fruit 2 Pack",
    "group": "RMS Squishy",
    "at": 1794575370
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794573731
   }
  ]
 }
