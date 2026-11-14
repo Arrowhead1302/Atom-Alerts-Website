@@ -1,8 +1,14 @@
 {
- "updated": 1794667385,
+ "updated": 1794669201,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794657052
+  },
   {
    "asin": "B0D9ZVQKTN",
    "name": "NeeDoh Sugar Skull Cool Cats",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794552747
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794546749
   }
  ]
 }
