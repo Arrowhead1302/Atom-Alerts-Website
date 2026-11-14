@@ -1,8 +1,14 @@
 {
- "updated": 1794677530,
+ "updated": 1794679344,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTP8CQF",
+   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
+   "group": "RMS Squishy",
+   "at": 1794668206
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794568115
-  },
-  {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1794564149
   }
  ]
 }
