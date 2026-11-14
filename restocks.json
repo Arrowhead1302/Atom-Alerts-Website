@@ -1,8 +1,20 @@
 {
- "updated": 1794639049,
+ "updated": 1794640858,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794629453
+  },
+  {
+   "asin": "B0FH7N6XQD",
+   "name": "NeeDoh Groovy Glob Green",
+   "group": "needoh",
+   "at": 1794628898
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794526170
-  },
-  {
-   "asin": "B0G3GGVJD5",
-   "name": "NeeDoh Nice-Sicle",
-   "group": "needoh",
-   "at": 1794522486
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794514579
   }
  ]
 }
