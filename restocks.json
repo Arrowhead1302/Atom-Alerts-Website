@@ -1,8 +1,14 @@
 {
- "updated": 1794757856,
+ "updated": 1794759667,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BFJBY",
+   "name": "NeeDoh Nice Cube Glow (Assorted)",
+   "group": "needoh",
+   "at": 1794747380
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1794629453
-  },
-  {
-   "asin": "B0FH7N6XQD",
-   "name": "NeeDoh Groovy Glob Green",
-   "group": "needoh",
-   "at": 1794628898
   }
  ]
 }
