@@ -1,8 +1,14 @@
 {
- "updated": 1794712974,
+ "updated": 1794715862,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794705036
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Gummy Bear (Assorted)",
    "group": "needoh",
    "at": 1794591794
-  },
-  {
-   "asin": "B0DV4BFJBY",
-   "name": "NeeDoh Nice Cube Glow (Assorted)",
-   "group": "needoh",
-   "at": 1794591275
   }
  ]
 }
