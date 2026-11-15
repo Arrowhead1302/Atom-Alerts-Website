@@ -1,8 +1,20 @@
 {
- "updated": 1794756042,
+ "updated": 1794757856,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DV4BCCHV",
+   "name": "NeeDoh Mello Mallo",
+   "group": "needoh",
+   "at": 1794746896
+  },
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794746081
+  },
   {
    "asin": "B0GFGSS22C",
    "name": "Clickeez Series 3 12-Pack",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Groovy Glob Green",
    "group": "needoh",
    "at": 1794628898
-  },
-  {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1794627618
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794627122
   }
  ]
 }
