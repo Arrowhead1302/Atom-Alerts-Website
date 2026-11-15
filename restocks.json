@@ -1,8 +1,20 @@
 {
- "updated": 1794752410,
+ "updated": 1794754228,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794743118
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1794741624
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794624687
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1794623393
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794622873
   }
  ]
 }
