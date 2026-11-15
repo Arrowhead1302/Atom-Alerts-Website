@@ -1,8 +1,14 @@
 {
- "updated": 1794776583,
+ "updated": 1794778400,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794766940
+  },
   {
    "asin": "B0DR3H6G51",
    "name": "NeeDoh Fuzz Ball Wonder Waves",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794661259
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794660665
   }
  ]
 }
