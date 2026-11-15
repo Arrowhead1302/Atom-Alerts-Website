@@ -1,8 +1,20 @@
 {
- "updated": 1794733710,
+ "updated": 1794735524,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794724162
+  },
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794723266
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -350,18 +362,6 @@
    "name": "Smushers Fruit 2 Pack",
    "group": "RMS Squishy",
    "at": 1794612208
-  },
-  {
-   "asin": "B0D6D6TPQL",
-   "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
-   "group": "needoh",
-   "at": 1794606461
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1794606425
   }
  ]
 }
