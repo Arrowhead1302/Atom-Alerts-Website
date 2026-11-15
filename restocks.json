@@ -1,8 +1,20 @@
 {
- "updated": 1794774769,
+ "updated": 1794776583,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794764407
+  },
+  {
+   "asin": "B07PGQL36C",
+   "name": "NeeDoh Groovy Fruit",
+   "group": "needoh",
+   "at": 1794764129
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1794660665
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794658909
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794657052
   }
  ]
 }
