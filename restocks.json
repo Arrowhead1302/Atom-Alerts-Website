@@ -1,8 +1,14 @@
 {
- "updated": 1794707547,
+ "updated": 1794709353,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794697937
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Nice Cream Cone",
    "group": "needoh",
    "at": 1794587968
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794585346
   }
  ]
 }
