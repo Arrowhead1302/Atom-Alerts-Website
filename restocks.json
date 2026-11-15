@@ -1,8 +1,14 @@
 {
- "updated": 1794771145,
+ "updated": 1794772957,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTX3DCJ",
+   "name": "Smushers Fruit 2 Pack",
+   "group": "RMS Squishy",
+   "at": 1794761420
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
    "group": "RMS Squishy",
    "at": 1794643350
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794639591
   }
  ]
 }
