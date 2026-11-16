@@ -1,8 +1,14 @@
 {
- "updated": 1794864761,
+ "updated": 1794866567,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794855289
+  },
   {
    "asin": "B0C6XBP4CW",
    "name": "NeeDoh Gumdrop - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "Clickeez Series 3 12-Pack",
    "group": "Clickeez",
    "at": 1794743583
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794743118
   }
  ]
 }
