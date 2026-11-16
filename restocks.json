@@ -1,8 +1,20 @@
 {
- "updated": 1794801714,
+ "updated": 1794803533,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794792333
+  },
+  {
+   "asin": "B0C6WZTWZ6",
+   "name": "NeeDoh Teenie Cool Cat 3pk",
+   "group": "needoh",
+   "at": 1794792262
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794680520
-  },
-  {
-   "asin": "B0D6D6TPQL",
-   "name": "NeeDoh Dream Drop (B0D6D6TPQL)",
-   "group": "needoh",
-   "at": 1794680269
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794679025
   }
  ]
 }
