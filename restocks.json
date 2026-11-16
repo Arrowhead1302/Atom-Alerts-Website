@@ -1,8 +1,14 @@
 {
- "updated": 1794828002,
+ "updated": 1794832869,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GCVSV7",
+   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
+   "group": "needoh",
+   "at": 1794821965
+  },
   {
    "asin": "B0DLPL7LC5",
    "name": "Prismatic Evolutions Elite Trainer Box",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794713212
-  },
-  {
-   "asin": "B0HNTP8CQF",
-   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
-   "group": "RMS Squishy",
-   "at": 1794710424
   }
  ]
 }
