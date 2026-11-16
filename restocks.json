@@ -1,8 +1,14 @@
 {
- "updated": 1794820381,
+ "updated": 1794822197,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFFZJZ",
+   "name": "Needoh Panic Pete",
+   "group": "needoh",
+   "at": 1794811092
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794697937
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1794696646
   }
  ]
 }
