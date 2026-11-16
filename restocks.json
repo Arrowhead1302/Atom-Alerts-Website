@@ -1,8 +1,14 @@
 {
- "updated": 1794812129,
+ "updated": 1794817957,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0D9ZVQKTN",
+   "name": "NeeDoh Sugar Skull Cool Cats",
+   "group": "needoh",
+   "at": 1794807140
+  },
   {
    "asin": "B0DVZRP9MR",
    "name": "NeeDoh Good Vibes Only",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1794694195
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1794689384
   }
  ]
 }
