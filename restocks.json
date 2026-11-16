@@ -1,8 +1,14 @@
 {
- "updated": 1794870541,
+ "updated": 1794872350,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMXY8V",
+   "name": "NeeDoh Squeezza",
+   "group": "needoh",
+   "at": 1794860122
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie (Assorted)",
    "group": "needoh",
    "at": 1794756669
-  },
-  {
-   "asin": "B0HNTLMB9M",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
-   "group": "RMS Squishy",
-   "at": 1794754890
   }
  ]
 }
