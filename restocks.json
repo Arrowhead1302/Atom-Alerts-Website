@@ -1,8 +1,14 @@
 {
- "updated": 1794894505,
+ "updated": 1794896672,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GW2DK37Q",
+   "name": "First Partner Illustration Collection - Series 2",
+   "group": "Pokemon",
+   "at": 1794885796
+  },
   {
    "asin": "B0GFXY3M2N",
    "name": "Clickeez Care Bears 3-Pack",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794768563
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1794766940
   }
  ]
 }
