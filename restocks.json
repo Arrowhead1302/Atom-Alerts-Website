@@ -1,8 +1,14 @@
 {
- "updated": 1794914999,
+ "updated": 1794916811,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTYJ9QW",
+   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTYJ9QW)",
+   "group": "RMS Squishy",
+   "at": 1794905132
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "Needoh Panic Pete",
    "group": "needoh",
    "at": 1794789092
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794789012
   }
  ]
 }
