@@ -1,8 +1,20 @@
 {
- "updated": 1794885346,
+ "updated": 1794887156,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B076FGVCRH",
+   "name": "NeeDoh Multi Color",
+   "group": "needoh",
+   "at": 1794875300
+  },
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1794875081
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1794763175
-  },
-  {
-   "asin": "B0DVZRP9MR",
-   "name": "NeeDoh Good Vibes Only",
-   "group": "needoh",
-   "at": 1794762208
-  },
-  {
-   "asin": "B0HNTX3DCJ",
-   "name": "Smushers Fruit 2 Pack",
-   "group": "RMS Squishy",
-   "at": 1794761420
   }
  ]
 }
