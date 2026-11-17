@@ -1,8 +1,14 @@
 {
- "updated": 1794947674,
+ "updated": 1794949720,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794938871
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794814556
-  },
-  {
-   "asin": "B0H2JVZYZZ",
-   "name": "First Partner Illustration Collection - Series 3",
-   "group": "Pokemon",
-   "at": 1794814212
   }
  ]
 }
