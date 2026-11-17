@@ -1,8 +1,14 @@
 {
- "updated": 1794887156,
+ "updated": 1794888965,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1794877351
+  },
   {
    "asin": "B076FGVCRH",
    "name": "NeeDoh Multi Color",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794763220
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794763175
   }
  ]
 }
