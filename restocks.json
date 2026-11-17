@@ -1,8 +1,14 @@
 {
- "updated": 1794874157,
+ "updated": 1794875964,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1794864876
+  },
   {
    "asin": "B0H7FDBNSB",
    "name": "30th Celebration Knockout Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794758851
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794757336
   }
  ]
 }
