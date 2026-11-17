@@ -1,8 +1,14 @@
 {
- "updated": 1794943828,
+ "updated": 1794947674,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794936855
+  },
   {
    "asin": "B0G3GF7FK2",
    "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
@@ -356,12 +362,6 @@
    "name": "First Partner Illustration Collection - Series 3",
    "group": "Pokemon",
    "at": 1794814212
-  },
-  {
-   "asin": "B0GFGSS22C",
-   "name": "Clickeez Series 3 12-Pack",
-   "group": "Clickeez",
-   "at": 1794813844
   }
  ]
 }
