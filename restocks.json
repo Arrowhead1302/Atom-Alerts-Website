@@ -1,8 +1,14 @@
 {
- "updated": 1794872350,
+ "updated": 1794874157,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0H7FDBNSB",
+   "name": "30th Celebration Knockout Collection",
+   "group": "Pokemon",
+   "at": 1794862403
+  },
   {
    "asin": "B0G3GMXY8V",
    "name": "NeeDoh Squeezza",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1794757336
-  },
-  {
-   "asin": "B0D6CVLBJZ",
-   "name": "NeeDoh Teenie (Assorted)",
-   "group": "needoh",
-   "at": 1794756669
   }
  ]
 }
