@@ -1,8 +1,14 @@
 {
- "updated": 1794919836,
+ "updated": 1794921652,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GF7FK2",
+   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
+   "group": "needoh",
+   "at": 1794910406
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794792262
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1794790859
   }
  ]
 }
