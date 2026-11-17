@@ -1,8 +1,14 @@
 {
- "updated": 1794906802,
+ "updated": 1794908612,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTLMB9M",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
+   "group": "RMS Squishy",
+   "at": 1794896428
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794784480
-  },
-  {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1794780679
   }
  ]
 }
