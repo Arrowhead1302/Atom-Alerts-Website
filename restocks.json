@@ -1,8 +1,14 @@
 {
- "updated": 1795023790,
+ "updated": 1795025964,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1795015130
+  },
   {
    "asin": "B0HNTP8CQF",
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Color Change",
    "group": "needoh",
    "at": 1794875081
-  },
-  {
-   "asin": "B0G3GCVSV7",
-   "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
-   "group": "needoh",
-   "at": 1794874526
   }
  ]
 }
