@@ -1,8 +1,14 @@
 {
- "updated": 1794998711,
+ "updated": 1795009428,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1794998515
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Mello Mallo",
    "group": "needoh",
    "at": 1794858638
-  },
-  {
-   "asin": "B0D9ZVQKTN",
-   "name": "NeeDoh Sugar Skull Cool Cats",
-   "group": "needoh",
-   "at": 1794858389
   }
  ]
 }
