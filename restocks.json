@@ -1,8 +1,14 @@
 {
- "updated": 1794994850,
+ "updated": 1794996902,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1794985999
+  },
   {
    "asin": "B0C6WZTWZ6",
    "name": "NeeDoh Teenie Cool Cat 3pk",
@@ -356,12 +362,6 @@
    "name": "Clickeez Care Bears 3-Pack",
    "group": "Clickeez",
    "at": 1794858253
-  },
-  {
-   "asin": "B0HNTLMB9M",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
-   "group": "RMS Squishy",
-   "at": 1794857908
   }
  ]
 }
