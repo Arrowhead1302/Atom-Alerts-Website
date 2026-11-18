@@ -1,8 +1,26 @@
 {
- "updated": 1795032230,
+ "updated": 1795034036,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GMGVPJ",
+   "name": "NeeDoh Jelly Squish",
+   "group": "needoh",
+   "at": 1795022413
+  },
+  {
+   "asin": "B0GFXY3M2N",
+   "name": "Clickeez Care Bears 3-Pack",
+   "group": "Clickeez",
+   "at": 1795021557
+  },
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1795021532
+  },
   {
    "asin": "B07KRL5KF8",
    "name": "NeeDoh Brand Original Super",
@@ -344,24 +362,6 @@
    "name": "First Partner Illustration Collection - Series 2",
    "group": "Pokemon",
    "at": 1794885796
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794883059
-  },
-  {
-   "asin": "B0G3GKNMKP",
-   "name": "NeeDoh Wild Cats Fuzz Ball",
-   "group": "needoh",
-   "at": 1794882032
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794881836
   }
  ]
 }
