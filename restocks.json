@@ -1,8 +1,14 @@
 {
- "updated": 1795021252,
+ "updated": 1795023790,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTP8CQF",
+   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
+   "group": "RMS Squishy",
+   "at": 1795012952
+  },
   {
    "asin": "B0H784PD4X",
    "name": "30th Celebration Ultra Premium Collection",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
    "group": "needoh",
    "at": 1794874526
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1794871475
   }
  ]
 }
