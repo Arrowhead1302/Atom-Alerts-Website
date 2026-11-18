@@ -1,8 +1,14 @@
 {
- "updated": 1795044412,
+ "updated": 1795046238,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GFGSS22C",
+   "name": "Clickeez Series 3 12-Pack",
+   "group": "Clickeez",
+   "at": 1795034039
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTYJ9QW)",
    "group": "RMS Squishy",
    "at": 1794905132
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1794904175
   }
  ]
 }
