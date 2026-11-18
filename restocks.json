@@ -1,8 +1,14 @@
 {
- "updated": 1795034036,
+ "updated": 1795035843,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTS47G6",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
+   "group": "RMS Squishy",
+   "at": 1795024514
+  },
   {
    "asin": "B0G3GMGVPJ",
    "name": "NeeDoh Jelly Squish",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Fuzz Ball Wonder Waves",
    "group": "needoh",
    "at": 1794886667
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1794885796
   }
  ]
 }
