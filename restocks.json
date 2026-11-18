@@ -1,8 +1,14 @@
 {
- "updated": 1794977891,
+ "updated": 1794981499,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1794970669
+  },
   {
    "asin": "B0FH7NNQWQ",
    "name": "NeeDoh Groovy Glob Orange",
@@ -356,12 +362,6 @@
    "name": "Needoh Panic Pete",
    "group": "needoh",
    "at": 1794855289
-  },
-  {
-   "asin": "B0C6XBP4CW",
-   "name": "NeeDoh Gumdrop - Pack of 1",
-   "group": "needoh",
-   "at": 1794852871
   }
  ]
 }
