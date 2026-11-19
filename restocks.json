@@ -1,8 +1,14 @@
 {
- "updated": 1795109073,
+ "updated": 1795110907,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GKNMKP",
+   "name": "NeeDoh Wild Cats Fuzz Ball",
+   "group": "needoh",
+   "at": 1795098553
+  },
   {
    "asin": "B0D9ZTW7PS",
    "name": "NeeDoh Nice Ice Baby - Pack of 1",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794956080
-  },
-  {
-   "asin": "B0F95K9CN6",
-   "name": "NeeDoh Teenie Fuzz Ball 3pk",
-   "group": "needoh",
-   "at": 1794946989
   }
  ]
 }
