@@ -1,8 +1,20 @@
 {
- "updated": 1795112712,
+ "updated": 1795114517,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1795103457
+  },
+  {
+   "asin": "B0HNTS47G6",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
+   "group": "RMS Squishy",
+   "at": 1795102718
+  },
   {
    "asin": "B0HBKQ7S84",
    "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
@@ -350,18 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1794964438
-  },
-  {
-   "asin": "B07XLDRB2S",
-   "name": "NeeDoh Color Change",
-   "group": "needoh",
-   "at": 1794963279
-  },
-  {
-   "asin": "B0GFXY3M2N",
-   "name": "Clickeez Care Bears 3-Pack",
-   "group": "Clickeez",
-   "at": 1794960703
   }
  ]
 }
