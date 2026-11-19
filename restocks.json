@@ -1,8 +1,14 @@
 {
- "updated": 1795063636,
+ "updated": 1795065445,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTP8CQF",
+   "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
+   "group": "RMS Squishy",
+   "at": 1795054482
+  },
   {
    "asin": "B0G3GFQTFZ",
    "name": "NeeDoh Swirl Nice Berg",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Sugar Skull Cool Cats",
    "group": "needoh",
    "at": 1794922636
-  },
-  {
-   "asin": "B0DR3H6G51",
-   "name": "NeeDoh Fuzz Ball Wonder Waves",
-   "group": "needoh",
-   "at": 1794920954
   }
  ]
 }
