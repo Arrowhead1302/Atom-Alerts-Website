@@ -1,8 +1,14 @@
 {
- "updated": 1795162765,
+ "updated": 1795164576,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GYTRYV7P",
+   "name": "Pitch Black Booster Bundle",
+   "group": "Pokemon",
+   "at": 1795152501
+  },
   {
    "asin": "B0FH7NNQWQ",
    "name": "NeeDoh Groovy Glob Orange",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Juicy Crew Smushers Fruit 2 Pack (B0HNTP8CQF)",
    "group": "RMS Squishy",
    "at": 1795012952
-  },
-  {
-   "asin": "B0H784PD4X",
-   "name": "30th Celebration Ultra Premium Collection",
-   "group": "Pokemon",
-   "at": 1795009829
   }
  ]
 }
