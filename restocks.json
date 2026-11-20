@@ -1,8 +1,14 @@
 {
- "updated": 1795153263,
+ "updated": 1795162765,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0FH7NNQWQ",
+   "name": "NeeDoh Groovy Glob Orange",
+   "group": "needoh",
+   "at": 1795151884
+  },
   {
    "asin": "B0BQZFFZJZ",
    "name": "Needoh Panic Pete",
@@ -356,12 +362,6 @@
    "name": "30th Celebration Ultra Premium Collection",
    "group": "Pokemon",
    "at": 1795009829
-  },
-  {
-   "asin": "B0HBKQ7S84",
-   "name": "Smushers Slow Rising Squishy Faces 2 Pack (B0HBKQ7S84)",
-   "group": "RMS Squishy",
-   "at": 1795008614
   }
  ]
 }
