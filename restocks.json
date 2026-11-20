@@ -1,8 +1,14 @@
 {
- "updated": 1795196374,
+ "updated": 1795198187,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GR6M4JV3",
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
+   "group": "Pokemon",
+   "at": 1795186394
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1795025680
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1795025302
   }
  ]
 }
