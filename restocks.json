@@ -1,8 +1,14 @@
 {
- "updated": 1795133041,
+ "updated": 1795139174,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1795128347
+  },
   {
    "asin": "B0G3GKNMKP",
    "name": "NeeDoh Wild Cats Fuzz Ball",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1794983971
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1794970669
   }
  ]
 }
