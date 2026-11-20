@@ -1,8 +1,14 @@
 {
- "updated": 1795211682,
+ "updated": 1795213494,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1795202060
+  },
   {
    "asin": "B0HNTS47G6",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
@@ -356,12 +362,6 @@
    "name": "Clickeez Series 3 12-Pack",
    "group": "Clickeez",
    "at": 1795034039
-  },
-  {
-   "asin": "B0BQZFFZJZ",
-   "name": "Needoh Panic Pete",
-   "group": "needoh",
-   "at": 1795033520
   }
  ]
 }
