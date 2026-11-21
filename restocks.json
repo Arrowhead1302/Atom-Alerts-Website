@@ -1,8 +1,20 @@
 {
- "updated": 1795288116,
+ "updated": 1795289932,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTS47G6",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
+   "group": "RMS Squishy",
+   "at": 1795278994
+  },
+  {
+   "asin": "B0HNTX3DCJ",
+   "name": "Smushers Fruit 2 Pack",
+   "group": "RMS Squishy",
+   "at": 1795278514
+  },
   {
    "asin": "B0FH7NNQWQ",
    "name": "NeeDoh Groovy Glob Orange",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1795122054
-  },
-  {
-   "asin": "B0GW2DK37Q",
-   "name": "First Partner Illustration Collection - Series 2",
-   "group": "Pokemon",
-   "at": 1795120378
-  },
-  {
-   "asin": "B0H7FR54KK",
-   "name": "30th Celebration Battle Deck",
-   "group": "Pokemon",
-   "at": 1795118202
   }
  ]
 }
