@@ -1,8 +1,14 @@
 {
- "updated": 1795245350,
+ "updated": 1795247165,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0G3GFQTFZ",
+   "name": "NeeDoh Swirl Nice Berg",
+   "group": "needoh",
+   "at": 1795236045
+  },
   {
    "asin": "B0HNTLMB9M",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Swirl Nice Berg",
    "group": "needoh",
    "at": 1795078533
-  },
-  {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1795071099
   }
  ]
 }
