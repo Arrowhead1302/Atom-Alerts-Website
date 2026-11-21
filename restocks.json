@@ -1,8 +1,26 @@
 {
- "updated": 1795282077,
+ "updated": 1795283893,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1795273067
+  },
+  {
+   "asin": "B0HNTLMB9M",
+   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTLMB9M)",
+   "group": "RMS Squishy",
+   "at": 1795271550
+  },
+  {
+   "asin": "B0DR3H6G51",
+   "name": "NeeDoh Fuzz Ball Wonder Waves",
+   "group": "needoh",
+   "at": 1795271359
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -344,24 +362,6 @@
    "name": "NeeDoh Teenie Cool Cat 3pk",
    "group": "needoh",
    "at": 1795108452
-  },
-  {
-   "asin": "B07XLDRB2S",
-   "name": "NeeDoh Color Change",
-   "group": "needoh",
-   "at": 1795108193
-  },
-  {
-   "asin": "B0G3GFQTFZ",
-   "name": "NeeDoh Swirl Nice Berg",
-   "group": "needoh",
-   "at": 1795103457
-  },
-  {
-   "asin": "B0HNTS47G6",
-   "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
-   "group": "RMS Squishy",
-   "at": 1795102718
   }
  ]
 }
