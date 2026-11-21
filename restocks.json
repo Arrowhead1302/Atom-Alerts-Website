@@ -1,8 +1,14 @@
 {
- "updated": 1795265653,
+ "updated": 1795267470,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0HNTX3DCJ",
+   "name": "Smushers Fruit 2 Pack",
+   "group": "RMS Squishy",
+   "at": 1795256657
+  },
   {
    "asin": "B0HNTS47G6",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
@@ -356,12 +362,6 @@
    "name": "NeeDoh Wild Cats Fuzz Ball",
    "group": "needoh",
    "at": 1795098553
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1795097151
   }
  ]
 }
