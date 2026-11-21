@@ -1,8 +1,20 @@
 {
- "updated": 1795239188,
+ "updated": 1795241003,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B07XLDRB2S",
+   "name": "NeeDoh Color Change",
+   "group": "needoh",
+   "at": 1795229104
+  },
+  {
+   "asin": "B0HNTX3DCJ",
+   "name": "Smushers Fruit 2 Pack",
+   "group": "RMS Squishy",
+   "at": 1795228471
+  },
   {
    "asin": "B0HNTS47G6",
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
@@ -350,18 +362,6 @@
    "name": "Pitch Black Booster Bundle",
    "group": "Pokemon",
    "at": 1795070284
-  },
-  {
-   "asin": "B0DV4BCCHV",
-   "name": "NeeDoh Mello Mallo",
-   "group": "needoh",
-   "at": 1795069274
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1795068202
   }
  ]
 }
