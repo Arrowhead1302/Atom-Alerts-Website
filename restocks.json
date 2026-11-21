@@ -1,8 +1,20 @@
 {
- "updated": 1795285706,
+ "updated": 1795288116,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0FH7NNQWQ",
+   "name": "NeeDoh Groovy Glob Orange",
+   "group": "needoh",
+   "at": 1795277296
+  },
+  {
+   "asin": "B0DTY5228W",
+   "name": "Charizard ex Special Collection",
+   "group": "Pokemon",
+   "at": 1795277219
+  },
   {
    "asin": "B0G3GCVSV7",
    "name": "NeeDoh Hot Shot Teenie NeeDoh 4 Pack",
@@ -350,18 +362,6 @@
    "name": "30th Celebration Battle Deck",
    "group": "Pokemon",
    "at": 1795118202
-  },
-  {
-   "asin": "B0G3GF7FK2",
-   "name": "NeeDoh Teenie Fuzz Ball 4 Pack",
-   "group": "needoh",
-   "at": 1795113479
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1795111070
   }
  ]
 }
