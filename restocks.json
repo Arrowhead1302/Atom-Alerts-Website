@@ -1,8 +1,14 @@
 {
- "updated": 1795313544,
+ "updated": 1795318157,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0BQZFVJTB",
+   "name": "NeeDoh Nice Cube - Pack of 1",
+   "group": "needoh",
+   "at": 1795307253
+  },
   {
    "asin": "B0DV49SQ71",
    "name": "NeeDoh SplootSplat -The Splat That Sploots",
@@ -356,12 +362,6 @@
    "name": "ORB Curiosities Wild Bunch Smushers Animal 2 Pack (B0HNTS47G6)",
    "group": "RMS Squishy",
    "at": 1795155318
-  },
-  {
-   "asin": "B0GR6M4JV3",
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Foil Promo Card & 3 Booster Packs)",
-   "group": "Pokemon",
-   "at": 1795155121
   }
  ]
 }
