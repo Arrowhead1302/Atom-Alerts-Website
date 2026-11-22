@@ -1,8 +1,14 @@
 {
- "updated": 1795307112,
+ "updated": 1795309897,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0DTY5228W",
+   "name": "Charizard ex Special Collection",
+   "group": "Pokemon",
+   "at": 1795299081
+  },
   {
    "asin": "B0GRSZ5TDC",
    "name": "NeeDoh Teenie Color Change 4pk",
@@ -356,12 +362,6 @@
    "name": "Needoh Panic Pete",
    "group": "needoh",
    "at": 1795142116
-  },
-  {
-   "asin": "B0G3GMXY8V",
-   "name": "NeeDoh Squeezza",
-   "group": "needoh",
-   "at": 1795141654
   }
  ]
 }
