@@ -1,8 +1,20 @@
 {
- "updated": 1795305297,
+ "updated": 1795307112,
  "delay_hours": 3,
  "tag": "atomalerts0a-20",
  "items": [
+  {
+   "asin": "B0GRSZ5TDC",
+   "name": "NeeDoh Teenie Color Change 4pk",
+   "group": "needoh",
+   "at": 1795296077
+  },
+  {
+   "asin": "B0D9ZTW7PS",
+   "name": "NeeDoh Nice Ice Baby - Pack of 1",
+   "group": "needoh",
+   "at": 1795294517
+  },
   {
    "asin": "B0DV4BCCHV",
    "name": "NeeDoh Mello Mallo",
@@ -350,18 +362,6 @@
    "name": "NeeDoh Squeezza",
    "group": "needoh",
    "at": 1795141654
-  },
-  {
-   "asin": "B0D9ZTW7PS",
-   "name": "NeeDoh Nice Ice Baby - Pack of 1",
-   "group": "needoh",
-   "at": 1795140637
-  },
-  {
-   "asin": "B0C6WZTWZ6",
-   "name": "NeeDoh Teenie Cool Cat 3pk",
-   "group": "needoh",
-   "at": 1795136961
   }
  ]
 }
